@@ -9,6 +9,7 @@
 
 *   []()
 *   []()
+*   [**git - how to delete all commit history in github? - Stack Overflow**](https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github)
 *   [这般在线“养羊”，坐收“羊”利还是理财骗局？](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652399751&idx=1&sn=4c2e15a1fcba91b1ecba3b7bc6fb902f&chksm=33d9950304ae1c15f18c9c8cb4cb669ec8ee6ca68ecb5617ed84adc74b245687ef564127c5d9&mpshare=1&scene=23&srcid=#rd)
 *   [基于LLVM的编译原理简明教程 (1) - 写编译器越来越容易了](https://yq.aliyun.com/articles/59983)
 *   [User Guides For those new to the LLVM system.(LLVM系统的新用户指南,中文翻译版)](https://github.com/zy445566/llvm-guide-zh)
