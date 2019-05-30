@@ -9,6 +9,9 @@
 
 *   []()
 *   []()
+*   [降维打击：这款GAN可以让真人「二次元化」 | 机器之心](https://www.jiqizhixin.com/articles/2018-12-11-10)
+*   [如何使用变分自编码器VAE生成动漫人物形象 - 推酷](https://www.tuicool.com/articles/Aji2Qnj)
+*   [lllyasviel/style2paints: sketch + style = paints](https://github.com/lllyasviel/style2paints)
 *   [**gitignore - ignoring any 'bin' directory on a git project - Stack Overflow**](https://stackoverflow.com/questions/1470572/ignoring-any-bin-directory-on-a-git-project)
 *   [**git - how to delete all commit history in github? - Stack Overflow**](https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github)
 *   [这般在线“养羊”，坐收“羊”利还是理财骗局？](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652399751&idx=1&sn=4c2e15a1fcba91b1ecba3b7bc6fb902f&chksm=33d9950304ae1c15f18c9c8cb4cb669ec8ee6ca68ecb5617ed84adc74b245687ef564127c5d9&mpshare=1&scene=23&srcid=#rd)
