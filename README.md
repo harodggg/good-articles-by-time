@@ -9,8 +9,10 @@
 
 *   []()
 *   []()
+*   [全是FFFF的IP数据包进入互联网，会发生。。。？](https://mp.weixin.qq.com/s?__biz=MzIxNTM3NDE2Nw==&mid=2247484704&idx=1&sn=ef3df55d0d5e8fe9a4afc5eca7f6fdfa&chksm=97980518a0ef8c0e360608ecc9441447da2189b835049ce5e6ab28a23fc9101d339ba2086e8c&mpshare=1&scene=23&srcid=#rd)
 *   [中文项目：快速识别验证码，CNN也能为爬虫保驾护航 | 机器之心](https://www.jiqizhixin.com/articles/2018-11-24)
 *   [用霍夫变换&SCNN码一个车道追踪器 | 机器之心](https://www.jiqizhixin.com/articles/2019-02-10-2)
+*   [音频情绪识别 | yulingtianxia's blog](http://yulingtianxia.com/blog/2019/03/30/Audio-Emotion-Recognition/)
 *   [aaronshan/12306-captcha: 基于深度学习的12306验证码识别](https://github.com/aaronshan/12306-captcha)
 *   [使用Python和Mask R-CNN自动寻找停车位，这是什么神操作？ | 机器之心](https://www.jiqizhixin.com/articles/2019-02-05)
 *   [女神被打码了？一笔一划脑补回来，效果超越Adobe | 已开源 - 知乎](https://zhuanlan.zhihu.com/p/54107962)
