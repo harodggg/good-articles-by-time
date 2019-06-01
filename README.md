@@ -9,6 +9,7 @@
 
 *   []()
 *   []()
+*   [激荡中国银行业信息科技四十年](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665516281&idx=1&sn=39ee699fd190de7c61ea77f08f51fa09&chksm=80d674bab7a1fdac33553e6ac0f6b9e87944cc177af73742bfde5f6a0fce61051dfd48986d45&mpshare=1&scene=23&srcid=#rd)
 *   [全是FFFF的IP数据包进入互联网，会发生。。。？](https://mp.weixin.qq.com/s?__biz=MzIxNTM3NDE2Nw==&mid=2247484704&idx=1&sn=ef3df55d0d5e8fe9a4afc5eca7f6fdfa&chksm=97980518a0ef8c0e360608ecc9441447da2189b835049ce5e6ab28a23fc9101d339ba2086e8c&mpshare=1&scene=23&srcid=#rd)
 *   [中文项目：快速识别验证码，CNN也能为爬虫保驾护航 | 机器之心](https://www.jiqizhixin.com/articles/2018-11-24)
 *   [用霍夫变换&SCNN码一个车道追踪器 | 机器之心](https://www.jiqizhixin.com/articles/2019-02-10-2)
