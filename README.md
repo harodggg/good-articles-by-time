@@ -9,6 +9,11 @@
 
 *   []()
 *   []()
+*   [**什么是深度学习的卷积？**](https://mp.weixin.qq.com/s/-EoW9gW32_E2eBksPSSiEg)
+*   [卷积有多少种？一文读懂深度学习中的各种卷积](https://www.jiqizhixin.com/articles/19022402)
+*   [卷积层 - Keras中文文档](https://keras-cn.readthedocs.io/en/latest/layers/convolutional_layer/)
+*   [CNN 卷积神经网络 - Keras | 莫烦Python](https://morvanzhou.github.io/tutorials/machine-learning/keras/2-3-CNN/)
+*   [直白介绍卷积神经网络（CNN） - 文章 - 伯乐在线](http://blog.jobbole.com/113819/)
 *   [Building a Convolutional Neural Network (CNN) in Keras](https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5)
 *   [常用层 - Keras中文文档](https://keras-cn.readthedocs.io/en/latest/layers/core_layer/#dense)
 *   [小白学CNN以及Keras的速成 | 雷锋网](https://www.leiphone.com/news/201708/fhJ72ZPlmYr12CwV.html)
