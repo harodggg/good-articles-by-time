@@ -9,6 +9,9 @@
 
 *   []()
 *   []()
+*   [计算器--实现一个简单的编译器 - 云巴专栏 - SegmentFault 思否](https://segmentfault.com/a/1190000007408126)
+*   [编译器架构的王者LLVM - 西风世界（横笛笑看今古事，立剑醉谈定江山） - 西风逍遥游 - CSDN博客](https://blog.csdn.net/sun_xiaofan/column/info/xf-llvm)
+*   [shdxiang/xy-compiler: A toy complier.](https://github.com/shdxiang/xy-compiler)
 *   [ASP.NET Core 2.0 : 五.服务是如何加载并运行的, Kestrel、配置与环境 - FlyLolo - 博客园](https://www.cnblogs.com/FlyLolo/p/ASPNETCore2_5.html)
 *   [ASP.NET Core 2.0 : 四. _Layout与_ViewStart - FlyLolo - 博客园](https://www.cnblogs.com/FlyLolo/p/ASPNETCore2_4.html)
 *   [ASP.NET Core 系列目录 - FlyLolo - 博客园](https://www.cnblogs.com/FlyLolo/p/ASPNETCore2_0.html)
