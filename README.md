@@ -9,6 +9,7 @@
 
 *   []()
 *   []()
+*   [zy445566/llvm-guide-zh: User Guides For those new to the LLVM system.(LLVM系统的新用户指南,中文翻译版)](https://github.com/zy445566/llvm-guide-zh)
 *   [码农不仅翻身，还要翻出去！日本篇 —— 好的、坏的和丑陋的](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665516225&idx=1&sn=4cd7a215026560cb4118295427564d69&chksm=80d67482b7a1fd94e4543ef426c1df8898d00e2ffc2c8e8a91394d6200baee953c761b094dea&mpshare=1&scene=23&srcid=#rd)
 *   [我发现一个新的软件，用自然语言编程！非常酷！](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665516247&idx=1&sn=edec123888ce490fbbe1390a0a32bb72&chksm=80d67494b7a1fd82439a559ba72e95d27814add8116db8cc61f23741c1d8312dbf056880f772&mpshare=1&scene=23&srcid=#rd)
 *   [为什么“无人问津”的Lisp可以这么狂？](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665516226&idx=1&sn=6fea7e36d1aa769e6d5b0af6702ae3db&chksm=80d67481b7a1fd9773b516c87f1e2cd3d9e392242430704243da3f4b45c2653d6304a749fa23&mpshare=1&scene=23&srcid=#rd)
