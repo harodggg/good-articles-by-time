@@ -9,6 +9,7 @@
 
 *   []()
 *   []()
+*   [**Writing Your Own Toy Compiler Using Flex, Bison and LLVM (gnuu.org)**](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
 *   [The Architecture of Open Source Applications: LLVM](http://www.aosabook.org/en/llvm.html)
 *   [yao-zou/MiniScript: A minimal script language, the lab for course 'compiler' in ZJU](https://github.com/yao-zou/MiniScript)
 *   [使用Flex Bison 和LLVM编写自己的编译器 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/1547.html)
