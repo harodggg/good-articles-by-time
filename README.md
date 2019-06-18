@@ -9,6 +9,12 @@
 
 *   []()
 *   []()
+*   [GitHub 不完全装逼指南 - 知乎](https://zhuanlan.zhihu.com/p/53184592)
+*   [当年b-money是怎么被中本聪“画龙点睛”的？_区块链_金色财经](https://www.jinse.com/news/blockchain/391111.html)
+*   [lex-yacc笔记——计算器实例 | 无语书斋](http://lesliezhu.com/2014/09/12/lex-yacc%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E8%AE%A1%E7%AE%97%E5%99%A8%E5%AE%9E%E4%BE%8B/)
+*   [How can I get the class name from a C++ object? - Stack Overflow](https://stackoverflow.com/questions/3649278/how-can-i-get-the-class-name-from-a-c-object)
+*   [c++ - Conversion from 'myItem*' to non-scalar type 'myItem' requested - Stack Overflow](https://stackoverflow.com/questions/3919850/conversion-from-myitem-to-non-scalar-type-myitem-requested)
+*   [高考前一天，为何孩子还在排位上分](https://mp.weixin.qq.com/s?__biz=MzI4MTkxMDIzOA==&mid=2247484699&idx=1&sn=cc3313564bfc537fef5bdf32a7b6ec8b&chksm=eba34baadcd4c2bcffe88074727cbf921b09a37f37305c8a937a45ca7774af1ae9f8c92ce7ba&mpshare=1&scene=23&srcid=#rd)
 *   [**Writing Your Own Toy Compiler Using Flex, Bison and LLVM (gnuu.org)**](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
 *   [The Architecture of Open Source Applications: LLVM](http://www.aosabook.org/en/llvm.html)
 *   [yao-zou/MiniScript: A minimal script language, the lab for course 'compiler' in ZJU](https://github.com/yao-zou/MiniScript)
