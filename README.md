@@ -9,6 +9,12 @@
 
 *   []()
 *   []()
+*   [写一封「用户体验」良好的求职邮件](https://mp.weixin.qq.com/s?__biz=MjM5ODIyMTE0MA==&mid=2650972154&idx=1&sn=788c301570eca7681b394d061a649c27&chksm=bd383bc18a4fb2d7c462aacede037fd645909c91f0f8006c072fdac532842e2179b7c7693362&mpshare=1&scene=23&srcid=#rd)
+*   [编译器架构的王者LLVM——（1）现代编译器架构](https://blog.csdn.net/xfxyy_sxfancy/article/details/49686523)
+*   [编译器架构的王者LLVM——（4）简单的词法和语法分析](https://blog.csdn.net/xfxyy_sxfancy/article/details/49699519)
+*   [编译器架构的王者LLVM——（3）用代码生成代码](https://blog.csdn.net/xfxyy_sxfancy/article/details/49687653)
+*   [编译器架构的王者LLVM——（5）语法树模型的基本结构](https://blog.csdn.net/xfxyy_sxfancy/article/details/49757783)
+*   [编译器架构的王者LLVM——（6）多遍翻译的宏翻译系统](https://blog.csdn.net/xfxyy_sxfancy/article/details/49758323)
 *   [authentication - Git push requires username and password - Stack Overflow](https://stackoverflow.com/questions/6565357/git-push-requires-username-and-password)
 *   [GitHub 不完全装逼指南 - 知乎](https://zhuanlan.zhihu.com/p/53184592)
 *   [当年b-money是怎么被中本聪“画龙点睛”的？_区块链_金色财经](https://www.jinse.com/news/blockchain/391111.html)
