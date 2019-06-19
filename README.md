@@ -9,6 +9,7 @@
 
 *   []()
 *   []()
+*   [authentication - Git push requires username and password - Stack Overflow](https://stackoverflow.com/questions/6565357/git-push-requires-username-and-password)
 *   [GitHub 不完全装逼指南 - 知乎](https://zhuanlan.zhihu.com/p/53184592)
 *   [当年b-money是怎么被中本聪“画龙点睛”的？_区块链_金色财经](https://www.jinse.com/news/blockchain/391111.html)
 *   [lex-yacc笔记——计算器实例 | 无语书斋](http://lesliezhu.com/2014/09/12/lex-yacc%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E8%AE%A1%E7%AE%97%E5%99%A8%E5%AE%9E%E4%BE%8B/)
