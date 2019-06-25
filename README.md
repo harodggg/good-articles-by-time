@@ -9,6 +9,10 @@
 
 *   []()
 *   []()
+*   [**自己动手写编译器**](http://pandolia.net/tinyc/index.html)
+*   [“银行理财”也会爆雷？非法吸金14亿，近万人被骗，这谁顶得住啊](https://mp.weixin.qq.com/s?__biz=MzU4ODAwNzUwMQ==&mid=2247485748&idx=1&sn=030e9c12d536e6bbb7aae0e1ebe0fa56&chksm=fde21816ca959100dcde8617f489ceb27977430805c97a5a6886482a73c0e06acf56b1e3c867&mpshare=1&scene=23&srcid=#rd)
+*   [设置MySQL/MariaDB 数据库默认编码为utf8mb4 （推荐）](https://blog.csdn.net/zhangpeterx/article/details/93462861)
+*   [ScreenToGif - 免费开源 GIF 录屏制作软件之王！对比多款主流 GIF 工具我选了它 - 异次元软件下载](https://www.iplaysoft.com/screentogif.html)
 *   [Getting started with ASP.NET Core and MySQL Connector/NET | InsideMySQL.com](https://insidemysql.com/getting-started-with-asp-net-core-and-mysql-connectornet/)
 *   [用LLVM来开发自己的编译器（一）——变量和函数 - gnefil.nil的个人页面 - OSCHINA](https://my.oschina.net/linlifeng/blog/97457)
 *   [使用 Keras 来破解 captcha 验证码 | 杨培文](https://ypw.io/captcha/)
