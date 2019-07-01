@@ -4,15 +4,26 @@
 共2166篇文章        
 
 
-## 2019-6
 
+## 2019-7
 
 *   []()
 *   []()
+*   [LR(1) 分析例子](https://blog.csdn.net/vincent2610/article/details/24391133)
+*   [Entity Framework Core 2.0 使用入门 - 晓晨Master - 博客园](https://www.cnblogs.com/stulzq/p/7717873.html)
+*   [Win10 1903可命名空名文件](https://www.windows10.pro/empty-name-file/)
+
+
+
+## 2019-6  共133篇
+*   [「重磅」Win10 1903有哪些新功能？2019年4月更新汇总](https://www.windows10.pro/april-2019-update-19h1-win10-1903-new-features-improvement/)
+*   [似然（likelihood）与概率（probability）的区别](https://yangfangs.github.io/2018/04/06/the-different-of-likelihood-and-probability/)
 *   [**学习 Node.js，第 1 单元：Node.js 学习路径概述**](https://www.ibm.com/developerworks/cn/opensource/os-learn-node-unit-1-overview-nodejs-learning-path/)
 *   [学习 Node.js，第 2 单元：安装 Node.js、npm 和 VSCode](https://www.ibm.com/developerworks/cn/opensource/os-tutorials-learn-nodejs-installing-node-nvm-and-vscode/)
 *   [What is the difference between uninformed and informed search? - Quora](https://www.quora.com/What-is-the-difference-between-uninformed-and-informed-search)
 *   [A* Search Algorithm](https://www.geeksforgeeks.org/a-search-algorithm/)
+*   [KNN介绍](https://github.com/wmpscc/ML-DL/tree/master/kNN)
+*   [What is the difference between probability and likelihood?](https://www.quora.com/What-is-the-difference-between-probability-and-likelihood-1/answer/Jason-Eisner?share=cbfeda82&srid=zDgIt)
 *   [parsing - Why can't a compiler have a "shift/shift" conflict? - Stack Overflow](https://stackoverflow.com/questions/13780216/why-cant-a-compiler-have-a-shift-shift-conflict)
 *   [Scut_cs_homework/编译原理/答案 at master · ahangchen/Scut_cs_homework](https://github.com/ahangchen/Scut_cs_homework/tree/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%AD%94%E6%A1%88)
 *   [编译原理LL(1)详解 - OT元旦 - 博客园](https://www.cnblogs.com/yuanting0505/p/3761411.html)
