@@ -9,8 +9,22 @@
 
 *   []()
 *   []()
+*   [ASP.NET Core 认证与授权[1]:初识认证](https://www.cnblogs.com/RainingNight/p/introduce-basic-authentication-in-asp-net-core.html)
+*   [ASP.NET Core 身份验证（一）](https://www.cnblogs.com/savorboard/p/authentication.html)
+*   [ASP.NET Core 中文文档 第四章 MVC（3.4）如何使用表单 - .NET_CORE_COMMUNITY - 博客园](https://www.cnblogs.com/dotNETCoreSG/p/aspnetcore-4_3_4-working-with-forms.html)
+*   [废宅与小布尔乔亚，无法撑起我们的未来](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650675402&idx=1&sn=cf0157bc0b7031a4d6764e7e5dc05870&chksm=bed497eb89a31efdeb2037904dc7e65eac35a23e4278f1c0232ef69c04b572481ff9c10ef3b3&mpshare=1&scene=23&srcid=#rd)
+*   [香港这座城市还有救吗？](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650675343&idx=1&sn=0215bea55e159d2c0cf8eb9193b2c696&chksm=bed497ae89a31eb8c760b9ef47f3e3decd3249466dc9bd28908e708ee5ad42e18f8e5afbc8e9&mpshare=1&scene=23&srcid=0622syZchgkxJWJb4M44g2gt#rd)
+*   [香港青年的“幼稚病”，与大陆青年的“皈依者狂热”](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650675384&idx=1&sn=df765f036d8de6bc497c94354cdf5927&chksm=bed4979989a31e8f00a87a063df5b1e98823e6137aba91d2b5fd62eaad31a927c903c31a2b98&mpshare=1&scene=23&srcid=#rd)
+*   [ASP.NET Core 2.2 - Simple API for Authentication, Registration and User Management](https://jasonwatmore.com/post/2018/06/26/aspnet-core-21-simple-api-for-authentication-registration-and-user-management)
+*   [受用一生的高效 PyCharm 使用技巧（一）](https://zhuanlan.zhihu.com/p/60383815)
+*   [每周分享五个 PyCharm 使用技巧（二）](https://zhuanlan.zhihu.com/p/60987477)
+*   [每周分享五个 PyCharm 使用技巧（三）](https://zhuanlan.zhihu.com/p/65041144)
+*   [每周分享五个 PyCharm 使用技巧（四）](https://zhuanlan.zhihu.com/p/69531467)
+*   [ASP.NET没有魔法——目录（完结） - 7m鱼 - 博客园](https://www.cnblogs.com/selimsong/p/7641799.html)
 *   [LR(1) 分析例子](https://blog.csdn.net/vincent2610/article/details/24391133)
 *   [Entity Framework Core 2.0 使用入门 - 晓晨Master - 博客园](https://www.cnblogs.com/stulzq/p/7717873.html)
+*   [你沉迷人脉，人脉割你韭菜](https://mp.weixin.qq.com/s?__biz=MzI5MTE2NDI2OQ==&mid=2247483981&idx=1&sn=7c6ed8ee1515c289f84703c894caefcc&chksm=ec159b4fdb6212598732ed3551bba27f19993ab1e931fdce48e5e3e55eb1975ee0eb5b3f3b1d&mpshare=1&scene=23&srcid=07015CTqCAB2TLo27N8h8KJO#rd)
+*   [简明 ASP.NET Core 手册](https://windsting.github.io/little-aspnetcore-book/book/)
 *   [Win10 1903可命名空名文件](https://www.windows10.pro/empty-name-file/)
 
 
