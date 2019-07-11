@@ -9,6 +9,8 @@
 
 *   []()
 *   []()
+*   [漫画：什么是数据仓库？](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247485475&idx=2&sn=8d485e1f7a03deedc6803a0085018eee&chksm=9b5facc5ac2825d388062e49a99cc4b4ef89afb04736d35c25a6534b101bf0d495e6fce46f8e&mpshare=1&scene=23&srcid=070552HpOMz0p1RHAemOU16I#rd)
+*   [漫谈数据仓库和范式](https://mp.weixin.qq.com/s?__biz=MzUyMjI4MzE0MQ==&mid=2247484160&idx=1&sn=5165b056141b9262cae6f399774b038a&chksm=f9cf72eaceb8fbfc6c82f7c5512735feae07dd0edeeca8df83439e9e642b239dbf978ded0224&mpshare=1&scene=23&srcid=07055nVM2bXxbo8cq45xjQwj#rd)
 *   [9.11. Canonical LR(1) Parsers](http://www.cs.ecu.edu/karl/4627/spr18/Notes/Bottom-up/lr1.html)
 *   [**CS 412 Schedule**](http://www.cs.cornell.edu/courses/cs412/2006sp/lectures/)
 *   [编译原理与实践作业答案 - 百度文库](https://wenku.baidu.com/view/6d451875f46527d3240ce0ac.html)
