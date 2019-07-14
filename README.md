@@ -9,6 +9,7 @@
 
 *   []()
 *   []()
+*   [风控划水，34亿资金翻船，京东诺亚谁在说谎](https://mp.weixin.qq.com/s?__biz=MzI5MTE2NDI2OQ==&mid=2247484195&idx=1&sn=dbf54d461c88f3ff8cab8b46e6c4b3b8&chksm=ec159a21db621337cd73b29de14ca107134dbe71f0a6325489fcee0bfb23f4902a6fa2682178&mpshare=1&scene=23&srcid=0711xp0Zp0FXjHUuaZQuBHTh#rd)
 *   [漫画：什么是数据仓库？](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247485475&idx=2&sn=8d485e1f7a03deedc6803a0085018eee&chksm=9b5facc5ac2825d388062e49a99cc4b4ef89afb04736d35c25a6534b101bf0d495e6fce46f8e&mpshare=1&scene=23&srcid=070552HpOMz0p1RHAemOU16I#rd)
 *   [漫谈数据仓库和范式](https://mp.weixin.qq.com/s?__biz=MzUyMjI4MzE0MQ==&mid=2247484160&idx=1&sn=5165b056141b9262cae6f399774b038a&chksm=f9cf72eaceb8fbfc6c82f7c5512735feae07dd0edeeca8df83439e9e642b239dbf978ded0224&mpshare=1&scene=23&srcid=07055nVM2bXxbo8cq45xjQwj#rd)
 *   [9.11. Canonical LR(1) Parsers](http://www.cs.ecu.edu/karl/4627/spr18/Notes/Bottom-up/lr1.html)
