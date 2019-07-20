@@ -9,6 +9,9 @@
 
 *   []()
 *   []()
+*   [动画：什么是 BF 算法 ？](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247485906&idx=1&sn=f00a07cbca83d345cbacc327e335de2d&chksm=fa0e6653cd79ef45a9566cd8ea947d122cfde8e1c9459332e4d7d04f06644fc7a6e81da7ee10&mpshare=1&scene=23&srcid=#rd)
+*   [咳血的独角兽3：财务自由诱惑下的道德塌方](https://mp.weixin.qq.com/s?__biz=MzI2MzE2NDczMw==&mid=2649737965&idx=1&sn=71d9db701440a77d32a3cef82bebe2a9&chksm=f25b6cbfc52ce5a9ba8dd621d77a5cc66aaff9d3a03a8eb75dde154652e2f85a3be4a87a9308&mpshare=1&scene=23&srcid=0720vuDgdBb7p6zvWOyNNDzs#rd)
+*   [AI笑话大全（完整版）](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2651713531&idx=1&sn=714df44d502453d57a884693c64f1dd2&chksm=5da1cb696ad6427fc4961b08d8083839d102384ccee7baf620a167ff578f929cac7409ba2e4e&mpshare=1&scene=23&srcid=#rd)
 *   [performance - How are cache memories shared in multicore Intel CPUs? - Stack Overflow](https://stackoverflow.com/questions/944966/how-are-cache-memories-shared-in-multicore-intel-cpus)
 *   [Clickhouse-copier in practice — Altinity](https://www.altinity.com/blog/2018/8/22/clickhouse-copier-in-practice)
 *   [Adventures with configuring Yandex ClickHouse on Fedora, CentOS and RedHat properly · Tim K's website on GitLab Pages](https://timkoi.gitlab.io/posts/clickhouse-howto/)
