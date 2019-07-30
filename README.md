@@ -1,14 +1,21 @@
 # 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)         
 ![number](number.png)            
-共2166篇文章        
+共2427篇文章        
 
 
 
-## 2019-7
+## 2019-8
 
 *   []()
 *   []()
+*   []()
+*   []()
+
+## 2019-7 共128篇
+*   [2018：春来秋去，往事知何处（上）](https://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=2649828133&idx=1&sn=e9a45cf9939e265f647c6c32b6ef8e10&chksm=8704a939b073202ffc2fcb0e88d06c1cdb38c6870e922c59d4a303500414e1cc99221a626a08&mpshare=1&scene=23&srcid=#rd)
+*   [Python 之父新发文，将替换现有解析器](https://mp.weixin.qq.com/s?__biz=MzUyOTk2MTcwNg==&mid=2247484442&idx=1&sn=19b78b6906d62012a0422d6e9504549a&utm_source=tuicool&utm_medium=referral)
+*   [微博当然要靠蔡徐坤-虎嗅网](https://www.huxiu.com/article/310717.html)
 *   [漫威辱华？背后是好莱坞式的傲慢与偏见](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650675506&idx=1&sn=c5c41ac9c321b8b2909d2822fc531784&chksm=bed4961389a31f054dada29f26e320040cd7848fcdb79d903a8002212da8065f58f3ddd8bb40&mpshare=1&scene=23&srcid=&sharer_sharetime=1564046836114&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [Home · Tencent/phxpaxos Wiki](https://github.com/Tencent/phxpaxos/wiki)
 *   [中文详细编译手册 · Tencent/phxpaxos Wiki](https://github.com/Tencent/phxpaxos/wiki/%E4%B8%AD%E6%96%87%E8%AF%A6%E7%BB%86%E7%BC%96%E8%AF%91%E6%89%8B%E5%86%8C)
