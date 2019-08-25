@@ -9,6 +9,9 @@
 
 *   []()
 *   []()
+*   [marian42/wavefunctioncollapse: Walk through an infinite, procedurally generated city](https://github.com/marian42/wavefunctioncollapse)
+*   [几种智能算法在黑白棋程序中的应用∗](http://home.ustc.edu.cn/~baj/publications/concluding2007-Bai.pdf)
+*   [**聊聊IT外包公司(外包公司的运作模式和赚钱之道) - 知乎**](https://zhuanlan.zhihu.com/p/68528947)
 *   [求求你们别炒鞋了，币圈都没人接盘了](https://mp.weixin.qq.com/s/dFVMdL46hoLPmvUivFqjWA)
 70后炒房，80后炒股，90后炒币，95后炒鞋，每一代最狂热的人都踩过坑，但是他们竟然都没有一点长进。连给孩子讲讲都不认真。                    
 人类唯一收获的教训就是，人类从来不会收获任何教训。      
