@@ -9,8 +9,12 @@
 
 *   []()
 *   []()
+*   [求求你们别炒鞋了，币圈都没人接盘了](https://mp.weixin.qq.com/s/dFVMdL46hoLPmvUivFqjWA)
+70后炒房，80后炒股，90后炒币，95后炒鞋，每一代最狂热的人都踩过坑，但是他们竟然都没有一点长进。连给孩子讲讲都不认真。                    
+人类唯一收获的教训就是，人类从来不会收获任何教训。      
+*   [**调查 | 拼多多刷单-PingWest 品玩**](https://www.pingwest.com/a/187159?utm_source=tuicool&utm_medium=referral)
 *   [独家 | 2019届互联网校招高薪清单出炉](https://mp.weixin.qq.com/s?__biz=MzI3NTUwNzMwNA==&mid=2247486840&idx=1&sn=7ef532728438007476017ab8811ad8e3&scene=21#wechat_redirect)          
-之前还会看工资比较，现在想想还是拿到offer再说。。             
+之前还会看工资比较，现在想想还是拿到offer再说。。                     
 *   [坐标拼多多，刚毕业的新人，加班开会到头昏脑涨，回到家心慌呕吐，疲惫到眼泪止不住流，难受，搞不懂为何有](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiZDMzMjlkOWVjNDM2MTFlOWI5YjU4MDE4NDRlNTAxOTAiLCJ1IjoyMTkyMDQwNDEsImlkIjoyMzMzOTM3NX0.MAlNZpXZ50Xdido778xXIx_CIoowG_kaLbbQtSxBLfQ)
 *   [Commit only part of a file in Git - Stack Overflow](https://stackoverflow.com/questions/1085162/commit-only-part-of-a-file-in-git)
 *   [Undo a Git merge that hasn't been pushed yet - Stack Overflow](https://stackoverflow.com/questions/2389361/undo-a-git-merge-that-hasnt-been-pushed-yet)
