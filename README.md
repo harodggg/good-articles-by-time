@@ -29,19 +29,19 @@
 *   [**前端面试官的套路，你懂吗？ - Jartto's blog**](http://jartto.wang/2019/01/06/f2e-interview/)
 *   [一道泄露并遭禁用的谷歌面试题，背后玄机全解析](https://www.infoq.cn/article/JIcl_2NjTUKE367EhuLi)
 *   [**聊聊IT外包公司(外包公司的运作模式和赚钱之道) - 知乎**](https://zhuanlan.zhihu.com/p/68528947)
-*   [**20届，大半夜睡不着，大概是要放弃实习了**](https://www.nowcoder.com/discuss/176822)        
+*   [**20届，大半夜睡不着，大概是要放弃实习了**](https://www.nowcoder.com/discuss/176822)             
 反正就是特别郁闷。大三的时候找过工作，那时候连一个helloworld都敲不出来也还是有公司肯要我，怎么读了两年研他妈的倒退了反而？      
-*   [在蚂蚁实习一个月之后，开始思考秋招跑路的事情了](https://www.nowcoder.com/discuss/203685)
+*   [在蚂蚁实习一个月之后，开始思考秋招跑路的事情了](https://www.nowcoder.com/discuss/203685)                
 5月27日入职蚂蚁，如今已有六周整。早上九点半晨会，中午十二点午饭，两点午休结束，六点晚饭，组里面同学普遍九点后走，遇到项目紧急还会更晚。我是财富部门的前端开发岗，直面业务，已经有两次加班到12点的经历，这周新来的实习生这周末就要997。           
 于是开始犹豫，开始重新审视所谓奋斗的意义，存在的价值一定要通过995甚至996才能得到肯定吗？这时候我还找到了自己早年写的一篇文章，真是讽刺。      
-*   [从面试到跑路--蚂蚁实习小记](https://www.nowcoder.com/discuss/233582)
+*   [从面试到跑路--蚂蚁实习小记](https://www.nowcoder.com/discuss/233582)             
 若要留下，其实有一万个理由。而在跑路这件事情上，我只有一个理由：希望在工作和生活之间能有更好的平衡。              
 最近又爆出几起阿里员工的家庭问题，我同学问“为什么阿里这种新闻特别多”、“腾讯头条咋都没这种新闻”，我答不上来。在夏令营的时候，也有同学向高P大佬提问工作与生活的问题，大佬们坦诚工作和家庭确实给工作让步了，但他们的家人能够支持和理解他们。这是成功者的例子，可我当时就想问：那有没有长期加班引发家庭悲剧的例子呢？如今看来这个问题的答案有点不言自明了。         
 当然，把加班和家庭问题等同起来，那是没有逻辑的，可是“幸福的家庭都是相同的，不幸的家庭各有各的不幸”，长期的加班会不会成为触发不幸的一味引子呢？阿里的价值观强调“用户第一”、“拥抱变化”，然而资本追求的是利润率的最大化，是压榨剩余价值，像这样的企业价值观是没法温暖家庭关系的。十万员工的奋斗使阿里成为了极具生产力的现代商业机器，但其中每个个体的悲欢，又有多少人关心呢？机器中报废之后淘汰下来的零件，又能去向何方呢？             
 *   [marian42/wavefunctioncollapse: Walk through an infinite, procedurally generated city](https://github.com/marian42/wavefunctioncollapse)
 *   [几种智能算法在黑白棋程序中的应用∗](http://home.ustc.edu.cn/~baj/publications/concluding2007-Bai.pdf)
 *   [**聊聊IT外包公司(外包公司的运作模式和赚钱之道) - 知乎**](https://zhuanlan.zhihu.com/p/68528947)
-*   [求求你们别炒鞋了，币圈都没人接盘了](https://mp.weixin.qq.com/s/dFVMdL46hoLPmvUivFqjWA)
+*   [求求你们别炒鞋了，币圈都没人接盘了](https://mp.weixin.qq.com/s/dFVMdL46hoLPmvUivFqjWA)                        
 70后炒房，80后炒股，90后炒币，95后炒鞋，每一代最狂热的人都踩过坑，但是他们竟然都没有一点长进。连给孩子讲讲都不认真。                    
 人类唯一收获的教训就是，人类从来不会收获任何教训。      
 *   [**调查 | 拼多多刷单-PingWest 品玩**](https://www.pingwest.com/a/187159?utm_source=tuicool&utm_medium=referral)
