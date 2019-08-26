@@ -9,6 +9,35 @@
 
 *   []()
 *   []()
+*   [携程提前批凉面_笔经面经_牛客网](https://www.nowcoder.com/discuss/170360)
+*   [2017腾讯前端实习生二面+HR面总结 | 凡客](https://xmflyrk.com/2017/04/16/Tecent-Interview-Second/)
+*   [2018 这一年_笔经面经_牛客网](https://www.nowcoder.com/discuss/137593)
+*   [**有什么适合提高 C/C++ 网络编程能力的开源项目推荐？ - 知乎**](https://www.zhihu.com/question/20124494/answer/29689762)
+*   [牛客访谈｜只要努力能够配得上梦想，最终结果肯定不会太差_技术交流_牛客网](https://www.nowcoder.com/discuss/178555)
+*   [【分享】看了一堆简历后，我发现了什么秘密？](https://mp.weixin.qq.com/s?__biz=MzIzMTE1ODkyNQ==&mid=2649411626&idx=1&sn=c4d1aa92da7761986c9d3c1e5103bf2c&chksm=f0b615c8c7c19cdeecc60f4a7b2804591372ed474cf038adff1c98c9555dba7cac0c9456d659&mpshare=1&scene=23&srcid=#rd)
+*   [嗯，春招两次腾讯面试都挂二面了，分享下我失败+傻傻的面试经历](https://mp.weixin.qq.com/s?__biz=MzIzMTE1ODkyNQ==&mid=2649411725&idx=1&sn=16d514e91aa0d445b8def7b487607ecb&chksm=f0b6156fc7c19c79512297fdc49b607a1355280a53c3d7019d3c535d157f0c93ef0b0f7ea66a&mpshare=1&scene=23&srcid=#rd)
+*   [分享|“毕业生故事”之我的求职历程 - 简书](https://www.jianshu.com/p/06ccabd9a432)
+*   [2019Android秋招提前批面试总结(已拿BAT等6家offer) - 简书](https://www.jianshu.com/p/0f72ac621f82)
+*   [2018 - 我的学生生涯最后一年回顾_追梦人物的博客](https://www.zmrenwu.com/post/85/)
+*   [面试的反杀-你有没有想要问我的](https://www.cnblogs.com/stoneFang/p/10720160.html)
+*   [美团实习| 周记(一) - 简书](https://www.jianshu.com/p/e0867ac2a261)
+*   [写给开发者的谷歌技术面试终极通关指南](https://www.infoq.cn/article/tl34RPwesHzhQfC0_Vid)
+*   [独家 | 2019届互联网校招高薪清单出炉](https://mp.weixin.qq.com/s?__biz=MzI3NTUwNzMwNA==&mid=2247486840&idx=1&sn=7ef532728438007476017ab8811ad8e3&scene=21#wechat_redirect)          
+之前还会看工资比较，现在想想还是拿到offer再说。。             
+*   [华为玄学面试凉经_笔经面经_牛客网](https://www.nowcoder.com/discuss/169809?type=0&order=1&pos=57&page=2)
+*   [腾讯？百度？程序员大厂实习经历经验谈](https://mp.weixin.qq.com/s?__biz=MzA5MzY4NTQwMA==&mid=2651004428&idx=1&sn=b994cb38aeaf895a807375d61cab4abf&chksm=8badadfbbcda24edea96f993ed89daeaf25eb2502e8f9a4f605d22a77632aff1c9b9c5325a2a&mpshare=1&scene=23&srcid=0401fhuXGE2LfmATlMlGu3Tz#rd)
+*   [**前端面试官的套路，你懂吗？ - Jartto's blog**](http://jartto.wang/2019/01/06/f2e-interview/)
+*   [一道泄露并遭禁用的谷歌面试题，背后玄机全解析](https://www.infoq.cn/article/JIcl_2NjTUKE367EhuLi)
+*   [**聊聊IT外包公司(外包公司的运作模式和赚钱之道) - 知乎**](https://zhuanlan.zhihu.com/p/68528947)
+*   [**20届，大半夜睡不着，大概是要放弃实习了**](https://www.nowcoder.com/discuss/176822)        
+反正就是特别郁闷。大三的时候找过工作，那时候连一个helloworld都敲不出来也还是有公司肯要我，怎么读了两年研他妈的倒退了反而？      
+*   [在蚂蚁实习一个月之后，开始思考秋招跑路的事情了](https://www.nowcoder.com/discuss/203685)
+5月27日入职蚂蚁，如今已有六周整。早上九点半晨会，中午十二点午饭，两点午休结束，六点晚饭，组里面同学普遍九点后走，遇到项目紧急还会更晚。我是财富部门的前端开发岗，直面业务，已经有两次加班到12点的经历，这周新来的实习生这周末就要997。           
+于是开始犹豫，开始重新审视所谓奋斗的意义，存在的价值一定要通过995甚至996才能得到肯定吗？这时候我还找到了自己早年写的一篇文章，真是讽刺。      
+*   [从面试到跑路--蚂蚁实习小记](https://www.nowcoder.com/discuss/233582)
+若要留下，其实有一万个理由。而在跑路这件事情上，我只有一个理由：希望在工作和生活之间能有更好的平衡。              
+最近又爆出几起阿里员工的家庭问题，我同学问“为什么阿里这种新闻特别多”、“腾讯头条咋都没这种新闻”，我答不上来。在夏令营的时候，也有同学向高P大佬提问工作与生活的问题，大佬们坦诚工作和家庭确实给工作让步了，但他们的家人能够支持和理解他们。这是成功者的例子，可我当时就想问：那有没有长期加班引发家庭悲剧的例子呢？如今看来这个问题的答案有点不言自明了。         
+当然，把加班和家庭问题等同起来，那是没有逻辑的，可是“幸福的家庭都是相同的，不幸的家庭各有各的不幸”，长期的加班会不会成为触发不幸的一味引子呢？阿里的价值观强调“用户第一”、“拥抱变化”，然而资本追求的是利润率的最大化，是压榨剩余价值，像这样的企业价值观是没法温暖家庭关系的。十万员工的奋斗使阿里成为了极具生产力的现代商业机器，但其中每个个体的悲欢，又有多少人关心呢？机器中报废之后淘汰下来的零件，又能去向何方呢？             
 *   [marian42/wavefunctioncollapse: Walk through an infinite, procedurally generated city](https://github.com/marian42/wavefunctioncollapse)
 *   [几种智能算法在黑白棋程序中的应用∗](http://home.ustc.edu.cn/~baj/publications/concluding2007-Bai.pdf)
 *   [**聊聊IT外包公司(外包公司的运作模式和赚钱之道) - 知乎**](https://zhuanlan.zhihu.com/p/68528947)
