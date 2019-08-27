@@ -8,6 +8,12 @@
 
 *   []()
 *   []()
+*   [“毒品之王”暴力洗劫美国！是中国干的？](https://user.guancha.cn/main/content?id=164411&s=zwyess)                    
+*   [How to deallocate memory without using free() in C?](https://www.geeksforgeeks.org/how-to-deallocate-memory-without-using-free-in-c/)
+*   [Memory Layout of C Programs - GeeksforGeeks](https://www.geeksforgeeks.org/memory-layout-of-c-program/)
+*   [万般皆下品，唯有收租高](https://mp.weixin.qq.com/s/vEcF7S0apYKKFmHA6VQvIQ)
+*   [C/C++内存管理详解 | ShinChan's Blog](https://chenqx.github.io/2014/09/25/Cpp-Memory-Management/)
+*   [C++ 面试之 static 关键字](https://riccoqu.github.io/2019/02/23/C++%20%E9%9D%A2%E8%AF%95%E4%B9%8B%20static%20%E5%85%B3%E9%94%AE%E5%AD%97/)
 
 ## 2019-8 共130篇
 
