@@ -8,6 +8,10 @@
 
 *   []()
 *   []()
+*   [sql - What is the difference between "INNER JOIN" and "OUTER JOIN"? - Stack Overflow](https://stackoverflow.com/questions/38549/what-is-the-difference-between-inner-join-and-outer-join)      
+*   [gcc - How does #include <bits/stdc++.h> work in C++? - Stack Overflow](https://stackoverflow.com/questions/25311011/how-does-include-bits-stdc-h-work-in-c)
+*   [Sorting a vector in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/sorting-a-vector-in-c/)
+*   [c - Constant pointer vs Pointer to constant - Stack Overflow](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)
 *   [c++ - Why are class member functions inlined? - Stack Overflow](https://stackoverflow.com/questions/9734175/why-are-class-member-functions-inlined)
 *   [In C++, what is a virtual base class? - Stack Overflow](https://stackoverflow.com/questions/21558/in-c-what-is-a-virtual-base-class)
 *   [dictionary - C++ Loop through Map - Stack Overflow](https://stackoverflow.com/questions/26281979/c-loop-through-map)
