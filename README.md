@@ -8,6 +8,8 @@
 
 *   []()
 *   []()
+*   [一文学习什么是2PC（二阶段提交）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485625&idx=1&sn=4e9557b6e73b2850d446659584905a97&chksm=ebd749b8dca0c0aeb9638b12a476106cf51ce3770fbeaa4e2c7edae03ac7ebdb2f64b8a4084a&mpshare=1&scene=23&srcid=&sharer_sharetime=1567682549323&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [“强奸式”电梯广告](https://mp.weixin.qq.com/s?__biz=MzI4MTkxMDIzOA==&mid=2247484819&idx=1&sn=8b7cda268582942da0f5c10a57a160fc&chksm=eba34b22dcd4c23405b35fc570a20800b355a47e5de803246532411a2ce6eda267c7f41f8909&mpshare=1&scene=23&srcid=&sharer_sharetime=1568520543859&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [sql - What is the difference between "INNER JOIN" and "OUTER JOIN"? - Stack Overflow](https://stackoverflow.com/questions/38549/what-is-the-difference-between-inner-join-and-outer-join)      
 *   [gcc - How does #include <bits/stdc++.h> work in C++? - Stack Overflow](https://stackoverflow.com/questions/25311011/how-does-include-bits-stdc-h-work-in-c)
 *   [Sorting a vector in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/sorting-a-vector-in-c/)
