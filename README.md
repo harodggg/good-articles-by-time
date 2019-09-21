@@ -8,6 +8,7 @@
 
 *   []()
 *   []()
+*   [taizilongxu/stackoverflow_python: stackoverflow上关于python的翻译](https://github.com/taizilongxu/stackoverflow_python)
 *   [一道腾讯面试题：厉害了我的杯](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484557&idx=1&sn=739d80488fe1169a9c9ca26ecfcdfba6&chksm=fa0e6b0ccd79e21a1c2b0d99db69f6206cddddfe2367742e9de1d7d17ec35a5ce29fa4e30d63&scene=21#wechat_redirect)
 *   [What is the lifetime of a static variable in a C++ function? - Stack Overflow](https://stackoverflow.com/questions/246564/what-is-the-lifetime-of-a-static-variable-in-a-c-function)
 *   [**干货 | 腾讯大神C++后台开发经验**](https://mp.weixin.qq.com/s?__biz=MzI3NTUwNzMwNA==&mid=2247490792&idx=3&sn=3c9e461e1c89855ea64101b3db92ed41&chksm=eb02edefdc7564f92d33adae1061b2b506d10ebbc802955d5a49a759d970ddc3966d97bf28ae&mpshare=1&scene=23&srcid=#rd)
