@@ -1,13 +1,20 @@
 # 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)         
 ![number](number.png)            
-共2427篇文章        
+共2631篇文章        
 
 
-## 2019-9
+## 2019-10
 
 *   []()
 *   []()
+*   []()
+## 2019-9 共74篇
+*   [go - How does defer and named return value work? - Stack Overflow](https://stackoverflow.com/questions/37248898/how-does-defer-and-named-return-value-work)
+*   [Use of defer in Go - Stack Overflow](https://stackoverflow.com/questions/47607955/use-of-defer-in-go)
+*   [严肃探讨：晃图片就能看到摇动，这是怎么回事？](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2651716802&idx=2&sn=9ccf604a2b747be64c85d71fff07e43d&chksm=5da1d8506ad65146c9ff900c4f379baa9367e835f6b262b634ba10fa62718afa1e97d1d5cf69&mpshare=1&scene=23&srcid=&sharer_sharetime=1569458319611&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [c++ - Is multiplication and division using shift operators in C actually faster? - Stack Overflow](https://stackoverflow.com/questions/6357038/is-multiplication-and-division-using-shift-operators-in-c-actually-faster)
+*   [**第六代导演的战争**](https://www.huxiu.com/article/319025.html)
 *   [taizilongxu/stackoverflow_python: stackoverflow上关于python的翻译](https://github.com/taizilongxu/stackoverflow_python)
 *   [一道腾讯面试题：厉害了我的杯](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484557&idx=1&sn=739d80488fe1169a9c9ca26ecfcdfba6&chksm=fa0e6b0ccd79e21a1c2b0d99db69f6206cddddfe2367742e9de1d7d17ec35a5ce29fa4e30d63&scene=21#wechat_redirect)
 *   [What is the lifetime of a static variable in a C++ function? - Stack Overflow](https://stackoverflow.com/questions/246564/what-is-the-lifetime-of-a-static-variable-in-a-c-function)
