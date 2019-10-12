@@ -8,7 +8,11 @@
 
 *   []()
 *   []()
-*   []()
+*   [最近学到的「短链接」知识](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485769&idx=1&sn=918d1b53b8cbad95d06482097a9030cd&chksm=ebd74848dca0c15e8fdcb63e2f194d6758c27f64dd50fedc77d6bb746c401b819ad338e3a2f6&mpshare=1&scene=23&srcid=&sharer_sharetime=1570773657106&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [**动态链接编译可执行文件时.so/.lib文件的用处以及ELF与PE文件的区别 - Penguin**](https://www.polarxiong.com/archives/%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5%E7%BC%96%E8%AF%91%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E6%97%B6-so-lib%E6%96%87%E4%BB%B6%E7%9A%84%E7%94%A8%E5%A4%84%E4%BB%A5%E5%8F%8AELF%E4%B8%8EPE%E6%96%87%E4%BB%B6%E7%9A%84%E5%8C%BA%E5%88%AB.html)
+*   [const修饰的变量不一定是常量 - Penguin](https://www.polarxiong.com/archives/const%E4%BF%AE%E9%A5%B0%E7%9A%84%E5%8F%98%E9%87%8F%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E5%B8%B8%E9%87%8F.html)
+*   [趣图：老板眼中的全栈开发者](https://mp.weixin.qq.com/s/50s0jQX7MrWu4WDp0iRP_A)
+
 ## 2019-9 共74篇
 *   [go - How does defer and named return value work? - Stack Overflow](https://stackoverflow.com/questions/37248898/how-does-defer-and-named-return-value-work)
 *   [Use of defer in Go - Stack Overflow](https://stackoverflow.com/questions/47607955/use-of-defer-in-go)
