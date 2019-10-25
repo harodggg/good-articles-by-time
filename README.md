@@ -8,6 +8,10 @@
 
 *   []()
 *   []()
+*   [Copy constructor vs assignment operator in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/copy-constructor-vs-assignment-operator-in-c/)
+*   [Java面经--零基础学习一年拿到BAT三家offer](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247486994&idx=1&sn=f2a731d9a44f47129bfee7f6e1f5c8f5&chksm=ec6e774adb19fe5ce3a2208010354c6ce5f1e0472d044200ad5cb42de43f36057bb057c62497&mpshare=1&scene=23&srcid=&sharer_sharetime=1567741150852&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [字符串模式匹配趣味算法](https://mp.weixin.qq.com/s/xB4lfGawj9uJ2ZiOvtSDFA)
+*   [字符串匹配Boyer-Moore算法：文本编辑器中的查找功能是如何实现的？](https://mp.weixin.qq.com/s?__biz=MzIzMTE1ODkyNQ==&mid=2649411798&idx=1&sn=8f0fa520d98f1535f8f59302815ad7ba&chksm=f0b61534c7c19c224b31fb868310cf64d5e4c4e836549fd4e9624598818d60e1fe7f65fdbce1&mpshare=1&scene=23&srcid=#rd)
 *   [**银行管培生的人生美梦，该醒醒了**](https://mp.weixin.qq.com/s?__biz=MzI5MTE2NDI2OQ==&mid=2247486252&idx=1&sn=2e37f3d4ec7f5b43ceea1ccd3565dcf8&chksm=ec15922edb621b380bed40cafd6c5c1863130861ebcb09e8824d1109cae099b9a2a32b7d112b&mpshare=1&scene=23&srcid=&sharer_sharetime=1571916155871&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [**金融全行业薪酬公开，鄙视链+职业发展，up主投行生涯简史_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili**](https://www.bilibili.com/video/av68401584/?p=1)
 *   [2019-10-24 英媒称英货车发现39具遗体均为中国公民 外交部领保中心：正核实](https://mp.weixin.qq.com/s?__biz=MjM5MjExOTIyMA==&mid=2652386136&idx=1&sn=78343f231e19f221d4d7b3e014335a17&chksm=bd47b3838a303a9553362f90a3ec957f89c9f6b1dcbfaa47720c6e080f61c577f2b22b5150d0&mpshare=1&scene=23&srcid=&sharer_sharetime=1571917268638&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
