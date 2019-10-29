@@ -1,13 +1,17 @@
 # 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)         
 ![number](number.png)            
-共2631篇文章        
+共2741篇文章        
 
 
-## 2019-10
+## 2019-11
 
 *   []()
 *   []()
+
+## 2019-10 共110篇
+*   [从偷渡案看2019年中国人生活水平在全球位置](https://user.guancha.cn/main/content?id=191225&page=0)
+*   [最近程序员频繁被抓，如何避免面向监狱编程！？ - HollisChuang - 博客园](https://www.cnblogs.com/hollischuang/p/11750625.html)
 *   [hao14293/2020-Postgraduate-408: 💯✍备考2020年研究生-408](https://github.com/hao14293/2020-Postgraduate-408)
 *   [浙江大学研究生院](http://grs.zju.edu.cn/)
 *   [浙江大学研究生招生网--2019硕士招生简章及招生专业目录](http://grs.zju.edu.cn/yjszs/redir.php?catalog_id=131815&object_id=145597)
