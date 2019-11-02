@@ -8,6 +8,11 @@
 
 *   []()
 *   []()
+*   [交易所老板永不睡眠_区块链_金色财经](https://www.jinse.com/blockchain/508335.html)
+*   [聊聊IT外包公司(外包公司的运作模式和赚钱之道)](https://zhuanlan.zhihu.com/p/68528947)
+*   [欣小萌出席bilibili校招现场！分享求职经历！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av68212826/?p=1)
+*   [**如何看待华为HR胡玲于2019.10.30在华为内部论坛心声社区的发帖？ - 知乎**](https://www.zhihu.com/question/353381490/answer/877071638)
+*   [理论武装头脑，不能再被“当代黄世仁”们割了韭菜](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650675993&idx=1&sn=71a80099098443f1282ba16ce1d1ceef&chksm=bed4943889a31d2e5732c6cdec1d2e425ca7bc8ad78fa46adbaa223488c1427703f9e1d6c51c&mpshare=1&scene=23&srcid=&sharer_sharetime=1572257663152&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 
 ## 2019-10 共110篇
 *   [从偷渡案看2019年中国人生活水平在全球位置](https://user.guancha.cn/main/content?id=191225&page=0)
