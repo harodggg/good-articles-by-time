@@ -8,6 +8,13 @@
 
 *   []()
 *   []()
+*   [2019-11-12 如何看待 11 月 11 日香港高校紧急宣布停课？校园师生安全如何自保？](https://www.zhihu.com/question/355286232/)
+*   [万万没想到！"两个鼻孔出气"竟是假的……](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2651707202&idx=2&sn=b2d04b6d01f42fa32d1267eef7446721&chksm=5da1f3d06ad67ac630f0c8a9048261ae2cacb0bde945d863c618d86072f6bb25160f93136c02&mpshare=1&scene=23&srcid=1027iUI7FXwrBJ9dHUVU9Ewj&sharer_sharetime=1572142713593&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [**香港青年的“幼稚病”，与大陆青年的“皈依者狂热”**](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650675384&idx=1&sn=df765f036d8de6bc497c94354cdf5927&chksm=bed4979989a31e8f00a87a063df5b1e98823e6137aba91d2b5fd62eaad31a927c903c31a2b98&mpshare=1&scene=23&srcid=#rd)
+*   [三方协议的流程与注意事项汇总（码字不易，欢迎补充）_笔经面经_牛客网](https://www.nowcoder.com/discuss/320692)
+*   [**顺风车，永无宁日**](https://mp.weixin.qq.com/s?__biz=MzI2MzE2NDczMw==&mid=2649738823&idx=1&sn=898729268a88fff27d5d6515978fe905&chksm=f25b6815c52ce1032641ec98a4b359974fb01a003f4fdc41cdf93824075f753408e0bb254c85&mpshare=1&scene=23&srcid=&sharer_sharetime=1573450982784&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [富人购买资产，你却购买负债](https://mp.weixin.qq.com/s?__biz=MzI4MTkxMDIzOA==&mid=2247484892&idx=1&sn=2b0176b07439d23fc1d61c2b12c7c41f&chksm=eba34b6ddcd4c27bacd8e4a1ea6775ca690a23d5072d5353ef846a84db84ebc6a76d2327617f&mpshare=1&scene=23&srcid=&sharer_sharetime=1573442613987&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [学信安 莫装逼 否则追悔莫及 - 信安之路](http://www.myh0st.cn/index.php/archives/1080/)
 *   [当互联网人有了孩子后...](https://mp.weixin.qq.com/s?__biz=MzI3NTUwNzMwNA==&mid=2247493592&idx=1&sn=6d0ba8ffab6e729317c7b67194498f18&chksm=eb0116dfdc769fc9f5c46b8a28ad4cd62cc4ac3603f30aa52b66928b3feba62fd10170a4d90e&mpshare=1&scene=23&srcid=&sharer_sharetime=1573228833244&sharer_shareid=726be08d644291d5ad100814fb1573ea#rd)
 *   [到底是谁还在给4399充钱？ - 知乎](https://zhuanlan.zhihu.com/p/90455138)
 *   [三四五线房产的价值，可能会被大水冲走](https://zhuanlan.zhihu.com/p/55499969)
