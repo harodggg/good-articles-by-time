@@ -8,6 +8,10 @@
 
 *   []()
 *   []()
+*   [线程与进程的区别以及对多线程并发的理解](https://developer.51cto.com/art/201906/597331.htm)
+*   [2019-11-13 11 月 13 日香港教育局发布明日全港学校停课通告，正在紧急撤离香港的学生情况如何？- 知乎](https://www.zhihu.com/question/355648979/answer/892912281)
+*   [**跳槽必看：BAT等互联网大厂的薪资情况和职级对标！**](https://mp.weixin.qq.com/s/4RWJe78jiKjRv8G21V5pYw)
+*   [**“宽松教育”不可取：从香港、日本与前苏联“减负”失败谈起**](https://mp.weixin.qq.com/s/v6NSvNq5XqvnpGkXV83L6w)
 *   [2019-11-12 如何看待 11 月 11 日香港高校紧急宣布停课？校园师生安全如何自保？](https://www.zhihu.com/question/355286232/)
 *   [万万没想到！"两个鼻孔出气"竟是假的……](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2651707202&idx=2&sn=b2d04b6d01f42fa32d1267eef7446721&chksm=5da1f3d06ad67ac630f0c8a9048261ae2cacb0bde945d863c618d86072f6bb25160f93136c02&mpshare=1&scene=23&srcid=1027iUI7FXwrBJ9dHUVU9Ewj&sharer_sharetime=1572142713593&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [**香港青年的“幼稚病”，与大陆青年的“皈依者狂热”**](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650675384&idx=1&sn=df765f036d8de6bc497c94354cdf5927&chksm=bed4979989a31e8f00a87a063df5b1e98823e6137aba91d2b5fd62eaad31a927c903c31a2b98&mpshare=1&scene=23&srcid=#rd)
