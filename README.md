@@ -8,6 +8,7 @@
 
 *   []()
 *   []()
+*   [JDK 源码中 HashMap 的 hash 方法原理是什么？ - 知乎](https://www.zhihu.com/question/20733617)
 *   [**都等着中国买单-虎嗅网**](https://www.huxiu.com/article/284873.html)
 *   [RPC框架是啥之Java自带RPC实现，RMI框架入门 - 猫叔的博客 | MySelf](https://unclecatmyself.github.io/2019/04/21/rpcaboutrmi/)
 *   [“正规”操作掩人耳目 “套路贷”手法复杂升级](http://www.banyuetan.org/xszg/detail/20191115/1000200033137251573781795422160747_1.html)
