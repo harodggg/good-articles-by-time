@@ -8,6 +8,12 @@
 
 *   []()
 *   []()
+*   [java - How do hashCode() and identityHashCode() work at the back end? - Stack Overflow](https://stackoverflow.com/questions/4930781/how-do-hashcode-and-identityhashcode-work-at-the-back-end)
+*   [股市修仙传V3](https://mp.weixin.qq.com/s?__biz=MzI2MzE2NDczMw==&mid=2649738884&idx=2&sn=a4304c22861195a3f7aa3ea771f8f315&chksm=f25b68d6c52ce1c0def485d860f6e6b558a9b70cb375aa521648ed375eaab180e112b8e06dff&mpshare=1&scene=23&srcid=&sharer_sharetime=1574578698371&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [How does Java 8's HashMap degenerate to balanced trees when many keys have the same hash code? - Stack Overflow](https://stackoverflow.com/questions/30164087/how-does-java-8s-hashmap-degenerate-to-balanced-trees-when-many-keys-have-the-s)
+*   [阿里面试题：为什么Map桶中个数超过8才转为红黑树](https://mp.weixin.qq.com/s/QgkBRoADcO8Wgj0dHCc9dw)
+*   [一文带你网罗HashMap面试考点！](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247487081&idx=2&sn=bf0ce8e0df03ca3efa0f223a2ce2171d&chksm=ec6e7731db19fe27658ec9625986a1e372648e862694ca2b26889ef8c53c459761bee83deb07&mpshare=1&scene=23&srcid=&sharer_sharetime=1568862736876&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [**硅谷行 职场生存篇**](https://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649869019&idx=1&sn=c6c748cbec1de5ce0f0ddbcc846eb2c9&chksm=f10750b6c670d9a05ae1da50922730ace4e073027db6d7967740847c326891d7533fad27afa5&mpshare=1&scene=23&srcid=&sharer_sharetime=1574144807124&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [JDK 源码中 HashMap 的 hash 方法原理是什么？ - 知乎](https://www.zhihu.com/question/20733617)
 *   [**都等着中国买单-虎嗅网**](https://www.huxiu.com/article/284873.html)
 *   [RPC框架是啥之Java自带RPC实现，RMI框架入门 - 猫叔的博客 | MySelf](https://unclecatmyself.github.io/2019/04/21/rpcaboutrmi/)
