@@ -8,6 +8,9 @@
 
 *   []()
 *   []()
+*   [2019-11-25  香港区议会选举结果出炉，建制惨败](https://user.guancha.cn/main/content?id=202619&s=zwyess)
+*   [java - Why is the initialCapacity of Hashtable 11 while the DEFAULT_INITIAL_CAPACITY in HashMap is 16 and requires a power of 2? - Stack Overflow](https://stackoverflow.com/questions/9413966/why-is-the-initialcapacity-of-hashtable-11-while-the-default-initial-capacity-in)
+*   [**网易裁员，让保安把身患绝症的我赶出公司。我在网易亲身经历的噩梦！ - 知乎**](https://zhuanlan.zhihu.com/p/93349725)       
 *   [java - How do hashCode() and identityHashCode() work at the back end? - Stack Overflow](https://stackoverflow.com/questions/4930781/how-do-hashcode-and-identityhashcode-work-at-the-back-end)
 *   [股市修仙传V3](https://mp.weixin.qq.com/s?__biz=MzI2MzE2NDczMw==&mid=2649738884&idx=2&sn=a4304c22861195a3f7aa3ea771f8f315&chksm=f25b68d6c52ce1c0def485d860f6e6b558a9b70cb375aa521648ed375eaab180e112b8e06dff&mpshare=1&scene=23&srcid=&sharer_sharetime=1574578698371&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [How does Java 8's HashMap degenerate to balanced trees when many keys have the same hash code? - Stack Overflow](https://stackoverflow.com/questions/30164087/how-does-java-8s-hashmap-degenerate-to-balanced-trees-when-many-keys-have-the-s)
