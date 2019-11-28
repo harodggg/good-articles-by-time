@@ -8,6 +8,12 @@
 
 *   []()
 *   []()
+*   [炒鞋大潮里的年轻人](https://www.huxiu.com/article/328286.html)
+*   [🔥全网最通俗易懂的【短链接】入门 - 掘金](https://juejin.im/post/5ddde339e51d4532cf3b8691)
+*   [我不讨厌看空拼多多的人；我讨厌做事不认真的人](https://mp.weixin.qq.com/s/ZbP3x3BcJo8swWvc54wWLQ)
+*   [**HashMap和HashTable到底哪不同？**](http://zhaox.github.io/2016/07/05/hashmap-vs-hashtable)
+*   [algorithm - Why does Java use (hash & 0x7FFFFFFF) % tab.length to decide the index of a key? - Stack Overflow](https://stackoverflow.com/questions/9380670/why-does-java-use-hash-0x7fffffff-tab-length-to-decide-the-index-of-a-key)
+*   [**带你深入浅出的分析 HashTable 源码**](https://mp.weixin.qq.com/s?__biz=MzU3NzczMTAzMg==&mid=2247485988&idx=1&sn=c5c540346a0229ae87d2457661468297&chksm=fd016a93ca76e385feddb1310f034c9dc1929f96397893ad3c717d6f1ce508be214332957c10&mpshare=1&scene=23&srcid=&sharer_sharetime=1573183442911&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [2019-11-25  香港区议会选举结果出炉，建制惨败](https://user.guancha.cn/main/content?id=202619&s=zwyess)
 *   [java - Why is the initialCapacity of Hashtable 11 while the DEFAULT_INITIAL_CAPACITY in HashMap is 16 and requires a power of 2? - Stack Overflow](https://stackoverflow.com/questions/9413966/why-is-the-initialcapacity-of-hashtable-11-while-the-default-initial-capacity-in)
 *   [**网易裁员，让保安把身患绝症的我赶出公司。我在网易亲身经历的噩梦！ - 知乎**](https://zhuanlan.zhihu.com/p/93349725)       
