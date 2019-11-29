@@ -1,13 +1,26 @@
 # 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)         
 ![number](number.png)            
-共2741篇文章        
+共2791篇文章        
 
 
-## 2019-11
-
+## 2019-12  
 *   []()
 *   []()
+
+
+## 2019-11  共50篇
+
+*   [深度调查：人贩子“梅姨”身后嗜血的“寻人灰产”](https://mp.weixin.qq.com/s?__biz=MzAwNTI1NjExNA==&mid=2247484158&idx=1&sn=72d54fb61fc7e30350e53e0c3c907a27&chksm=9b1e2423ac69ad35996a79620382528e42e9f1368597a7233be8af3f034879aaac3c5320f0fe&mpshare=1&scene=23&srcid=1129yFGw0nqhLaMId8bux73H&sharer_sharetime=1575002329198&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [老品牌の新套路，你购物车里的保暖内衣大部分是贴牌货？](https://mp.weixin.qq.com/s?__biz=MzAwNTI1NjExNA==&mid=2247484066&idx=1&sn=a6af3c5934cbd859da019c653ba7f58f&chksm=9b1e247fac69ad6935b6ea1d9a4a724b3b0264d3da58b6662dbc9e829ff545276aca5c29f82e&mpshare=1&scene=23&srcid=&sharer_sharetime=1575002604448&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)                    
+南极人，北极绒，俞兆林，鳄鱼，恒源祥这些老牌的低价电商货，是诱惑我们堕落的开始，而更堕落的是，他们中的大部分其实是贴牌货。。。             
+*   [java - maven error: element dependency can not have character children - Stack Overflow](https://stackoverflow.com/questions/26508166/maven-error-element-dependency-can-not-have-character-children)
+*   [如何看待网传华为员工李某元离职后被公司起诉敲诈勒索，羁押 251 天后因证据不足重获自由？ - 知乎](https://www.zhihu.com/question/358237309)       
+*   [亿万富翁自首入狱，64套房产被查！中国千亿“吸血”平台，为何难逃一死？](https://mp.weixin.qq.com/s?__biz=MzUzNDY0NzQwMQ==&mid=2247522811&idx=1&sn=262264ac524c6aa4650dc86265ca2008&utm_source=tuicool&utm_medium=referral)
+*   [Linux :debian(ubuntu)下安装和使用haskell - zhangpeterx的博客 - CSDN博客](https://blog.csdn.net/zhangpeterx/article/details/88994042)
+*   [第一章：入门 — Real World Haskell 中文版](https://rwh.readthedocs.io/en/latest/chp/1.html)
+*   [Haskell/变量和函数 - 维基教科书，自由的教学读本](https://zh.wikibooks.org/wiki/Haskell/%E5%8F%98%E9%87%8F%E5%92%8C%E5%87%BD%E6%95%B0)
+*   [Haskell/列表和元组 - 维基教科书，自由的教学读本](https://zh.wikibooks.org/wiki/Haskell/%E5%88%97%E8%A1%A8%E5%92%8C%E5%85%83%E7%BB%84)
 *   [炒鞋大潮里的年轻人](https://www.huxiu.com/article/328286.html)
 *   [🔥全网最通俗易懂的【短链接】入门 - 掘金](https://juejin.im/post/5ddde339e51d4532cf3b8691)
 *   [我不讨厌看空拼多多的人；我讨厌做事不认真的人](https://mp.weixin.qq.com/s/ZbP3x3BcJo8swWvc54wWLQ)
