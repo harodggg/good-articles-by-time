@@ -7,6 +7,17 @@
 ## 2019-12  
 *   []()
 *   []()
+*   [如何给Docker镜像瘦身？](https://www.infoq.cn/article/tbiWIEU87E*wKuNVJDWm)
+*   [两小时入门 Docker](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666543666&idx=1&sn=aa2959d857cf31904c2712309a843e41&chksm=80dcfe99b7ab778f6de258c444719fc1b2874f3ba7110a3f0373f0ce69702906192fea863777&mpshare=1&scene=23&srcid=0130ivx7CTyoLs7JD5TTRJx7#rd)
+*   [你们别笑，我从下午焦虑到现在](https://mp.weixin.qq.com/s?__biz=MjM5MjAxNTE4MA==&mid=2652147929&idx=1&sn=6ec8eef47ecc4ea4a09b0079135465a0&chksm=bd4c86fa8a3b0fec99af3a328aa0df2cd9c394ce48ed9c156c0479beaf8019c8c48685bed089&mpshare=1&scene=23&srcid=&sharer_sharetime=1575685103346&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)                             
+今天周小川行长的一句话，让我下午坐椅子上想了半天。                
+他说中国可以避免快速进入到负利率时代，这话的本意自然是给现下中国趋缓的经济增速打气，但我倒是听出了里面的另一层意思。                   
+避免快速进入，那也就是说最后进入是迟早的事，我们只是努力在延缓这个过程。             
+其实中国现在的利率已经在历史低位，定存一年是1.5%，我没去查表，印象中这大概是我懂事以来的最低。和股市跌多了一定会反弹不同，利率这东西...以后可能间中会有小弹，但大的趋势肯定还是逐渐向下，直至零，甚至负利率。                  
+因为中国经济的体量逐渐变大，发展空间缩小，货币的机会成本下降这几乎是不可逆的。                  
+*   [Docker命令使用_服务器应用_Linux公社-Linux系统门户网站](https://www.linuxidc.com/Linux/2017-11/148372.htm)
+*   [字节码万岁！！！](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665517792&idx=1&sn=2983fd5f81694996d28c63aba1dd3b5a&chksm=80d66aa3b7a1e3b50d052b6094c0c28212687a2d5a661679f4a1f867c461e1553bca7c377122&mpshare=1&scene=23&srcid=&sharer_sharetime=1575443551110&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [一手捐钱，一手圈钱，大病众筹愁更愁](https://mp.weixin.qq.com/s?__biz=MzI5MTE2NDI2OQ==&mid=2247487208&idx=1&sn=f7f989c352e4107d8534b9164d20bc4a&chksm=ec1597eadb621efcd54577c54513a35f8273307df942e90f3358102e9c98890ef93ae4f34270&mpshare=1&scene=23&srcid=&sharer_sharetime=1575271997955&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [韭菜们，面对大公司，要认怂，要认怂，要认怂，重要事情说三遍！](https://mp.weixin.qq.com/s?__biz=MzI5OTM3MjMyNA==&mid=2247487823&idx=1&sn=d3700fa2e0e4e728fd6edbf7bb38a954&chksm=ec96cb04dbe14212419964c58f249b1a9d1205b2f4661ac8db47981bb462d8d6dea5e6944d6d&mpshare=1&scene=23&srcid=&sharer_sharetime=1575261878614&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)                  
 我后来发现，外部环境不允许你自由发挥的时候，做人一定要认怂。越早认清现实，就越容易止损。如果不认怂和大厂们折腾下去，大厂耗得起，自己耗不起，最后即使正义来了，也一定是不值得的。            
 所谓认怂其实是一种最实际的态度。国内那几个事情，在大厂一开始说的时候直接认怂，钱也不要了，估计事情也就停了。也许很多人觉得这不对，没有公平正义。但是兄弟别天真了，公平正义值多少时间精力，你耗得起吗？反正我这个写公众号的，是耗不起的，所以不写比写强。             
