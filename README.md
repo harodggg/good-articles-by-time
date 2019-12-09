@@ -7,6 +7,8 @@
 ## 2019-12  
 *   []()
 *   []()
+*   [How to Setup Hadoop on Ubuntu 18.04 & 16.04 LTS – TecAdmin](https://tecadmin.net/setup-hadoop-on-ubuntu/)
+*   [**写给孩子看的Kubernetes动画指南【中英字幕】**](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665514892&idx=1&sn=f8b1169d9b66b88c3f5bac14de5384a7&chksm=80d67fcfb7a1f6d93359d14e0983fc895f734d35a1d7f3534e5e3c1c3294033c60ae09e7f5aa&mpshare=1&scene=23&srcid=0927MO4XawH0pPyNXRHcBD2W#rd)
 *   [如何给Docker镜像瘦身？](https://www.infoq.cn/article/tbiWIEU87E*wKuNVJDWm)
 *   [两小时入门 Docker](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666543666&idx=1&sn=aa2959d857cf31904c2712309a843e41&chksm=80dcfe99b7ab778f6de258c444719fc1b2874f3ba7110a3f0373f0ce69702906192fea863777&mpshare=1&scene=23&srcid=0130ivx7CTyoLs7JD5TTRJx7#rd)
 *   [你们别笑，我从下午焦虑到现在](https://mp.weixin.qq.com/s?__biz=MjM5MjAxNTE4MA==&mid=2652147929&idx=1&sn=6ec8eef47ecc4ea4a09b0079135465a0&chksm=bd4c86fa8a3b0fec99af3a328aa0df2cd9c394ce48ed9c156c0479beaf8019c8c48685bed089&mpshare=1&scene=23&srcid=&sharer_sharetime=1575685103346&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)                             
