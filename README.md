@@ -7,6 +7,14 @@
 ## 2019-12  
 *   []()
 *   []()
+*   [**HashMap线程安全问题**](https://mp.weixin.qq.com/s?__biz=MzU5MDc3ODAwOA==&mid=2247483795&idx=1&sn=f219452b43fad2cf75899a510ade0bf3&chksm=fe385a64c94fd37270f3bbd42e4394ff0aaddddacaba8d953cf8026a619ff8152d3864b2ac46&mpshare=1&scene=23&srcid=0323YjSK4cPXHuYC5FV05VgR#rd)
+*   [《吊打面试官》系列-HashMap - 掘金](https://juejin.im/post/5dee6f54f265da33ba5a79c8)
+*   [Java 集合系列03之 ArrayList详细介绍(源码解析)和使用示例 - 如果天空不死 - 博客园](https://www.cnblogs.com/skywang12345/p/3308556.html)
+*   [原创 | 为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650124209&idx=1&sn=64718c1b932d9a7333b7c2eb06c34256&chksm=f36bb290c41c3b86a4136f2bed6c1aceb10dbefa443b8a1b5a6bc6a27533d37944458301bea2&mpshare=1&scene=23&srcid=#rd)
+*   [信了大神，老王开始定投理财，结果血本无归，为什么？](https://mp.weixin.qq.com/s?__biz=MzI5OTM3MjMyNA==&mid=2247487870&idx=1&sn=cee1834b872001dd3dcc0b52ced14e60&chksm=ec96cb35dbe1422317a3b00f32813d7de0b262564225542d9ae8f144a343ea9aa4fd109a6142&mpshare=1&scene=23&srcid=&sharer_sharetime=1575869327493&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)                       
+但是其实定投理财照样可以亏的血本无归。标题上我是这样写的：“信了大神，老王开始定投理财，结果血本无归，为什么？” 其中一个答案是老王生在巴西，或者俄罗斯。                       
+实际上股市的数据几十年都在。简单做一点学习就可以知道。这个结论过去几十年里对美国股市是成立的，对中国股市也基本上可以成立。只不过中国股市波动性更大。但是如果你不幸出生在巴西，然后套用这套理论买巴西股指，那现在基本上已经血本无归了。                    
+我在我的免费星球里发起讨论。只有很少数的人能回答正确。答案其实是在赌国运。一个国家的经济长期看是向上的，股指就长期看向上，所以定投就可以获得这个增长。但是一个国家的经济长期看下降的话，怎么定投都是亏钱的。过去美股是向上的，未来呢？真的未来100年还是同样的趋势么？                           
 *   [How to Setup Hadoop on Ubuntu 18.04 & 16.04 LTS – TecAdmin](https://tecadmin.net/setup-hadoop-on-ubuntu/)
 *   [**写给孩子看的Kubernetes动画指南【中英字幕】**](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665514892&idx=1&sn=f8b1169d9b66b88c3f5bac14de5384a7&chksm=80d67fcfb7a1f6d93359d14e0983fc895f734d35a1d7f3534e5e3c1c3294033c60ae09e7f5aa&mpshare=1&scene=23&srcid=0927MO4XawH0pPyNXRHcBD2W#rd)
 *   [如何给Docker镜像瘦身？](https://www.infoq.cn/article/tbiWIEU87E*wKuNVJDWm)
