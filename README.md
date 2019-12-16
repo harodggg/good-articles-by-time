@@ -7,6 +7,9 @@
 ## 2019-12  
 *   []()
 *   []()
+*   [**Java String intern function result problem - Stack Overflow**](https://stackoverflow.com/questions/59333471/java-string-intern-function-result-problem)
+*   [深入解析String#intern - 美团技术博客](https://tech.meituan.com/2014/03/06/in-depth-understanding-string-intern.html)
+*   [深入理解String.intern - 后端 - 掘金](https://juejin.im/entry/5981c8c76fb9a03c3d02367d)
 *   [**HashMap线程安全问题**](https://mp.weixin.qq.com/s?__biz=MzU5MDc3ODAwOA==&mid=2247483795&idx=1&sn=f219452b43fad2cf75899a510ade0bf3&chksm=fe385a64c94fd37270f3bbd42e4394ff0aaddddacaba8d953cf8026a619ff8152d3864b2ac46&mpshare=1&scene=23&srcid=0323YjSK4cPXHuYC5FV05VgR#rd)
 *   [《吊打面试官》系列-HashMap - 掘金](https://juejin.im/post/5dee6f54f265da33ba5a79c8)
 *   [Java 集合系列03之 ArrayList详细介绍(源码解析)和使用示例 - 如果天空不死 - 博客园](https://www.cnblogs.com/skywang12345/p/3308556.html)
