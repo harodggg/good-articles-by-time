@@ -7,6 +7,8 @@
 ## 2019-12  
 *   []()
 *   []()
+*   [java - What's the difference between ConcurrentHashMap and Collections.synchronizedMap(Map)? - Stack Overflow](https://stackoverflow.com/questions/510632/whats-the-difference-between-concurrenthashmap-and-collections-synchronizedmap)
+*   [**这才是真正的Git——Git内部原理揭秘！ - 知乎**](https://zhuanlan.zhihu.com/p/96631135?utm_source=qq&utm_medium=social&utm_oi=30019480977408)
 *   [**Java String intern function result problem - Stack Overflow**](https://stackoverflow.com/questions/59333471/java-string-intern-function-result-problem)
 *   [深入解析String#intern - 美团技术博客](https://tech.meituan.com/2014/03/06/in-depth-understanding-string-intern.html)
 *   [深入理解String.intern - 后端 - 掘金](https://juejin.im/entry/5981c8c76fb9a03c3d02367d)
