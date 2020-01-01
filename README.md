@@ -1,12 +1,17 @@
 # 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)         
 ![number](number.png)            
-共2791篇文章        
+共2832篇文章        
 
-
-## 2019-12  
+## 2020-1
 *   []()
 *   []()
+
+
+## 2019-12  共32篇
+*   [**北京房价下跌18.5%，首付跌没了**](https://mp.weixin.qq.com/s/WjYOc9pSF-WGcWBwHCYC5w)          
+这有零有整的数字当然不是我编的，是最近中国社科院财经战略研究院发布《中国住房市场发展月度分析报告》里说的。         
+一线城市房价整体趋于寒冷，除了深圳例外逆势上涨，北京、上海、广州的房价都在持续调整，其中北京的调整最为明显，2019年11月份的房价相较2017年4月，平均下跌了18.5%，如果你是2年半前买的房子，首付已经亏没了。                
 *   [java - What's the difference between ConcurrentHashMap and Collections.synchronizedMap(Map)? - Stack Overflow](https://stackoverflow.com/questions/510632/whats-the-difference-between-concurrenthashmap-and-collections-synchronizedmap)
 *   [**这才是真正的Git——Git内部原理揭秘！ - 知乎**](https://zhuanlan.zhihu.com/p/96631135?utm_source=qq&utm_medium=social&utm_oi=30019480977408)
 *   [**Java String intern function result problem - Stack Overflow**](https://stackoverflow.com/questions/59333471/java-string-intern-function-result-problem)
