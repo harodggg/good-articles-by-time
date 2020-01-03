@@ -6,7 +6,11 @@
 ## 2020-1
 *   []()
 *   []()
-
+*   [2019，我被坑惨了](https://www.huxiu.com/article/333483.html)    
+Part 1 预付费坑      
+Part 2 加盟合作坑       
+Part 3 投资贷款坑         
+Part 4 创业坑          
 
 ## 2019-12  共32篇
 *   [**北京房价下跌18.5%，首付跌没了**](https://mp.weixin.qq.com/s/WjYOc9pSF-WGcWBwHCYC5w)          
