@@ -7,6 +7,7 @@
 *   []()
 *   []()
 *   [Neo4j教程：开发人员入门指南](https://neo4j.com/developer/get-started/)
+*   [**.NET Tutorial | Hello World in 10 minutes**](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro)
 *   [neo4j教程_w3cschool](https://www.w3cschool.cn/neo4j/)
 *   [**印度调查报告：上_风闻社区**](https://user.guancha.cn/main/content?id=207261&page=0)
 *   [Github Pages + jekyll 全面介绍极简搭建个人网站和博客 - 知乎](https://zhuanlan.zhihu.com/p/51240503)
