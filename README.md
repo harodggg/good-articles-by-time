@@ -6,6 +6,9 @@
 ## 2020-1
 *   []()
 *   []()
+*   [如何看待最高法核准「太平洋大逃杀案」五名主犯死刑？ - 知乎](https://www.zhihu.com/question/266875169)
+*   [编程学习方向的选择](https://mp.weixin.qq.com/s?__biz=MzI0NjM2NjU3OA%3D%3D&mid=2247483941&idx=1&sn=43853c7a74623cbb4c2b11fe23204179&scene=45#wechat_redirect)
+*   [MySQL 连接时尽量使用 127.0.0.1 而不是 localhost - V2EX](https://www.v2ex.com/t/623596)
 *   [Neo4j教程：开发人员入门指南](https://neo4j.com/developer/get-started/)
 *   [**.NET Tutorial | Hello World in 10 minutes**](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro)
 *   [neo4j教程_w3cschool](https://www.w3cschool.cn/neo4j/)
