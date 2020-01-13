@@ -6,7 +6,15 @@
 ## 2020-1
 *   []()
 *   []()
+*   [重大案件破获：团伙操纵8股票获利数亿 26名主犯归案_新浪财经_新浪网](https://finance.sina.com.cn/stock/t/2020-01-03/doc-iihnzhha0180712.shtml?cref=cj)             
+在这起案件中，主犯罗山东负责股票账户的操作，指挥集中买入、卖出；龚世威主要负责提供配资，同时也参与操纵交易；贺志华则担当了股市“黑嘴”的角色，负责推荐股票，吸引散户买入。自2017年5月开始，该团伙利用400多个股票账户恶意操纵8只股票，获利达数亿元。        
+*   [我所使用的邮件订阅](https://mp.weixin.qq.com/s/OIvNVUrW38mYFDeauneGqQ)
+*   [巨头圈地，草根何为？ - 专栏 - 创业邦](http://www.cyzone.cn/article/571299.html)
+*   [阿里的“无用”和“有用”-虎嗅网](https://www.huxiu.com/article/317755.html)     
+简而言之，抓思想是有效果的，别管你自己觉得是不是“洗脑”。 想想那个略显滑稽的新闻：诈骗团伙也考核业绩，在墙上贴上标语不骗够多少不回家过年，而且信誓旦旦的说自己使被骗者“吃一堑长一智”，没有作用吗？其实有的。 但是洗完脑，做的是好事坏事就另说了。善，就是大善；恶，则是大恶。 一个组织，对价值观的最终解释权如果就捏在几个人的手里，那它为善还是作恶，终究还是取决于这几个人的道德水平。 ——而这世上永远不缺打着大善之名行着大恶之实的故事。        
+*   [在Windows上使窗口始终处于最佳状态的3种最佳方法](https://www.howtogeek.com/196958/the-3-best-ways-to-make-a-window-always-on-top-on-windows/)
 *   [如何看待最高法核准「太平洋大逃杀案」五名主犯死刑？ - 知乎](https://www.zhihu.com/question/266875169)
+*   [hash 算法原理及应用漫谈](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649744696&idx=1&sn=ec248218f192956c9d7eb8e62d9803ce&utm_source=tuicool&utm_medium=referral)
 *   [编程学习方向的选择](https://mp.weixin.qq.com/s?__biz=MzI0NjM2NjU3OA%3D%3D&mid=2247483941&idx=1&sn=43853c7a74623cbb4c2b11fe23204179&scene=45#wechat_redirect)
 *   [MySQL 连接时尽量使用 127.0.0.1 而不是 localhost - V2EX](https://www.v2ex.com/t/623596)
 *   [Neo4j教程：开发人员入门指南](https://neo4j.com/developer/get-started/)
