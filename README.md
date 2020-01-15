@@ -6,6 +6,9 @@
 ## 2020-1
 *   []()
 *   []()
+*   [【计算机科学速成课】[40集全/精校] - Crash Course Computer Science_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av21376839)
+*   [微信聊天潜台词，你能读懂几段？-虎嗅网](https://www.huxiu.com/article/316161.html)
+*   [这届父母正在夏令营里碎钞 | 深氪lite_36氪](https://36kr.com/p/5241730)
 *   [重大案件破获：团伙操纵8股票获利数亿 26名主犯归案_新浪财经_新浪网](https://finance.sina.com.cn/stock/t/2020-01-03/doc-iihnzhha0180712.shtml?cref=cj)             
 在这起案件中，主犯罗山东负责股票账户的操作，指挥集中买入、卖出；龚世威主要负责提供配资，同时也参与操纵交易；贺志华则担当了股市“黑嘴”的角色，负责推荐股票，吸引散户买入。自2017年5月开始，该团伙利用400多个股票账户恶意操纵8只股票，获利达数亿元。        
 *   [我所使用的邮件订阅](https://mp.weixin.qq.com/s/OIvNVUrW38mYFDeauneGqQ)
