@@ -6,6 +6,7 @@
 ## 2020-1
 *   []()
 *   []()
+*   [世界上有哪些代码量很少，但很牛逼很经典的算法或项目案例？ - 知乎](https://www.zhihu.com/question/358255792/answer/974431591)
 *   [【计算机科学速成课】[40集全/精校] - Crash Course Computer Science_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av21376839)
 *   [微信聊天潜台词，你能读懂几段？-虎嗅网](https://www.huxiu.com/article/316161.html)
 *   [这届父母正在夏令营里碎钞 | 深氪lite_36氪](https://36kr.com/p/5241730)
