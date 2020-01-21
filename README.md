@@ -6,7 +6,10 @@
 ## 2020-1
 *   []()
 *   []()
+*   [羊毛党跑去京东摸了年终奖](https://mp.weixin.qq.com/s?__biz=MzI2MzE2NDczMw==&mid=2649739330&idx=1&sn=cd9c9269fd7387a3e424dcbf9e7bda8f&chksm=f25b7610c52cff062987135098acedfd071f7ecab3cf1f8bcd05f7cbd76b4e5e10beace3e4c8&mpshare=1&scene=23&srcid=011621sKRLHEfFRIhQwUzgd1&sharer_sharetime=1579425765023&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [软件开发|GNU binutils 里的九种武器](https://linux.cn/article-11441-1.html)
 *   [电影投资的背后，是韭菜的撒币梦](https://mp.weixin.qq.com/s?__biz=MzI5MTE2NDI2OQ==&mid=2247486206&idx=1&sn=229fbb506fb6538e88f54361d29282bb&chksm=ec1593fcdb621aeaa065daf351ecfaad9cbc5a5c1883783ca4992c455088f1c07202c4a9be49&mpshare=1&scene=23&srcid=0119LziDnOuqG3djF1T84Url&sharer_sharetime=1579426791465&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)  
+*   [一日一技：在Linux系统中如何查询正在运行的程序的路径](https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648978154&idx=1&sn=53488342b4b67fbd97ffd73affd69fd5&chksm=f2506f0ac527e61c8b7cd11e13aff279fa7e29f1f9bacbe990c012274f73e3dd48f5f8edfd89&mpshare=1&scene=23&srcid=0119f0M6FbJ86dEq34KZNtb2&sharer_sharetime=1579425817650&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd) 
 *   [世界上有哪些代码量很少，但很牛逼很经典的算法或项目案例？ - 知乎](https://www.zhihu.com/question/358255792/answer/974431591)
 *   [【计算机科学速成课】[40集全/精校] - Crash Course Computer Science_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av21376839)
 *   [微信聊天潜台词，你能读懂几段？-虎嗅网](https://www.huxiu.com/article/316161.html)
