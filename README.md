@@ -6,6 +6,16 @@
 ## 2020-1
 *   []()
 *   []()
+*   [二十出头，老气横秋](https://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649868793&idx=1&sn=9deb966db9aa2a050a9bcd0cf59cfd30&chksm=f1075394c670da823ce219de59f4845a223a5ac07e4d3b99d4184367e381fd58451b3cf9d7dc&mpshare=1&scene=23&srcid=&sharer_sharetime=1568026534397&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)           
+看到有年轻人这样提问，应届生刚刚毕业，找工作，说大城市攒不下钱买房，想回到家乡附近二三线城市，以后打算在哪里哪里定居，所以希望提前准备。     
+才刚毕业就想在哪里定居了，要不要再计划一下退休了干什么呢？是不是可以准备一下退休爱好了呢？          
+*   [ggtalk | 我都花时间搭博客了，为什么还要花时间写？](https://talk.swift.gg/1)
+*   [**Android 开源项目分类汇总**](https://github.com/Trinea/android-open-project)
+*   [Flutter学习之视图体系 - 推酷](https://www.tuicool.com/articles/Vj2ANzU)
+*   [**Flutter 完整实战详解 - 收藏集 - 掘金**](https://juejin.im/collection/5db25bcff265da06a19a304e)
+*   [构建你的第一个Flutter视频通话应用 - 声网Agora.io的博客 - CSDN博客](https://blog.csdn.net/agora_cloud/article/details/87872959)
+*   [alibaba/flutter-go: flutter 开发者帮助 APP，包含 flutter 常用 130+ 组件的中文文档与 demo 演示](https://github.com/alibaba/flutter-go)
+*   [**Flutter启动流程初探 | zjutkz's blog**](http://zjutkz.net/2019/02/27/Flutter%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B%E5%88%9D%E6%8E%A2/)
 *   [在重重保护下，富商身处密室依然被杀！这世上有最完美的犯罪吗？](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2651707647&idx=2&sn=fceac151744f731711941870099eeed7&chksm=5da1fc6d6ad6757b9109254ec7220f1726c20bfde179d52beade90a439f296305416c200ed02&mpshare=1&scene=23&srcid=#rd)
 *   [美国还能改变中国吗？ - 纽约时报中文网](https://cn.nytimes.com/opinion/20190730/can-the-us-still-change-china/)
 *   [如何写一个开放WLAN下的嗅探测试工具？ - FreeBuf互联网安全新媒体平台](https://www.freebuf.com/wireless/165806.html?preview=true)
