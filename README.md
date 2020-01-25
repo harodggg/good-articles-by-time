@@ -6,6 +6,7 @@
 ## 2020-1
 *   []()
 *   []()
+*   [multicore - multi-CPU, multi-core and hyper-thread - Stack Overflow](https://stackoverflow.com/questions/680684/multi-cpu-multi-core-and-hyper-thread)
 *   [**英国人是怎么给自己挖了个坑然后被折磨到崩溃的_风闻社区**](https://user.guancha.cn/main/content?id=197175&s=zwyess)
 *   [你大可以尽情花钱，只要对人生毫不在乎](https://mp.weixin.qq.com/s/b_MW4SgEw8nSSCEjJpqwHw)
 *   [Unity3D安卓手游逆向](http://www.xumenger.com/hack-unity3d-game-20190629/)
@@ -54,7 +55,7 @@
 *   [neo4j教程_w3cschool](https://www.w3cschool.cn/neo4j/)
 *   [**印度调查报告：上_风闻社区**](https://user.guancha.cn/main/content?id=207261&page=0)
 *   [Github Pages + jekyll 全面介绍极简搭建个人网站和博客 - 知乎](https://zhuanlan.zhihu.com/p/51240503)
-*   [游戏引擎养成《一》 环境搭建 - 知乎](游戏引擎养成《一》 环境搭建 - 知乎)
+*   [游戏引擎养成《一》 环境搭建 - 知乎](https://zhuanlan.zhihu.com/p/57804885)
 *   [城市树种如何选，花粉过敏的能好过点？](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652399438&idx=1&sn=37f5b084e8578e35b02c2ec12851da71&chksm=33d99aca04ae13dc3b3f4bc97f85473842db9d49056b08c3c0d745b1d7f99f51ffcbe450e16c&mpshare=1&scene=23&srcid=1027ryn94ywLHuMNlOeuNXIq&sharer_sharetime=1572139769135&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [2019，我被坑惨了](https://www.huxiu.com/article/333483.html)    
 Part 1 预付费坑      
