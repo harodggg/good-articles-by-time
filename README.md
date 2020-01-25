@@ -6,6 +6,17 @@
 ## 2020-1
 *   []()
 *   []()
+*   [曾经优秀的人，怎么就突然不优秀了。](https://mp.weixin.qq.com/s/r5B0TB94kKy83D3M8ogKDA)          
+我不站立场，我只站事实，事实只有一句话，优秀的门槛越来越高。          
+为什么优秀的人突然不优秀了，因为优秀的门槛一直在变高，因为每年都在重新定义优秀的标准，这次还真是重新定义。     
+我应该是中国最早写cold fusion代码的人，谁还知道这是啥玩意，是中国最早翻译asp教程的人，也是中国最早一波写php代码的人，从当时看，很牛逼对不对，过不了几年，这玩意也算竞争力？         
+什么是竞争力，多理解系统底层的逻辑和思想，诸如内存分配的机制，多理解数据结构的原理和设计理念，这些也不能说永远都有竞争力，但如果理解到位，并且应用得当，至少可以保证二三十年自己的思想不会在业内落伍。          
+你的出发点不能是说孔子说了什么，亚里士多德说了什么，马克思说了什么。他们的话对我们今天有什么影响，不能这样问。但是你要问的是，如果孔子活在今天，掌握了这样的信息，像他这样的思考者，他问的问题是什么       
+*   [2019-10-26 新中国为什么与众不同？](https://mp.weixin.qq.com/s/-RejbLyyiYhCHR0Bse8GYQ)
+*   [上帝托梦给我说：一切皆文件](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665518136&idx=1&sn=fc6f18e56c337fb224d0e96246044f9d&chksm=80d66c7bb7a1e56ddef01383ad89d18d97eb40da2a97b9a16495ec9336e62cd4045f95668859&mpshare=1&scene=23&srcid=01241wUh3EHvknHYj30RxE4m&sharer_sharetime=1579871790907&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [是否有交五险一金的必要？ - 知乎](https://www.zhihu.com/question/35659389/answer/834140664)
+*   [elaine-zheng/summer2020internships: Keep track of internships for Summer 2020 for undergraduates interested in tech./SWE/related fields](https://github.com/elaine-zheng/summer2020internships)
+*   [DingHanyang/chatLog: QQ群聊天记录分析](https://github.com/DingHanyang/chatLog)
 *   [multicore - multi-CPU, multi-core and hyper-thread - Stack Overflow](https://stackoverflow.com/questions/680684/multi-cpu-multi-core-and-hyper-thread)
 *   [**英国人是怎么给自己挖了个坑然后被折磨到崩溃的_风闻社区**](https://user.guancha.cn/main/content?id=197175&s=zwyess)
 *   [你大可以尽情花钱，只要对人生毫不在乎](https://mp.weixin.qq.com/s/b_MW4SgEw8nSSCEjJpqwHw)
@@ -1471,7 +1482,7 @@ PS.我领导中国传媒大学文化科类专业本科毕业，中科院硕士�
 *   [编辑器领域正发生变革？从面试看 Visual Studio Code 的崛起](https://www.infoq.cn/article/ku6LBaHMi6Dw8KOP-2Db?utm_source=tuicool&utm_medium=referral)
 *   [java - Changing a JMenuBar's font - Stack Overflow](https://stackoverflow.com/questions/27318130/changing-a-jmenubars-font)
 *   [2018-12-8 孟晚舟听证会实录，最终结果周一见](https://www.tuicool.com/articles/MrQbuej)
-*   [**中国消费者已经彻底改变了 | 在这里改变偏见**](https://36kr.com/p/5166061.html?utm_source=tuicool&utm_medium=referral)   
+*   [**中国消费者已经彻底改变了  在这里改变偏见**](https://36kr.com/p/5166061.html?utm_source=tuicool&utm_medium=referral)   
 今日中国之怪现象是：从来没有去过一次县城农村的人，每天在台上讲消费下沉。没有开过店的人，总想指导你怎么做零售。     
 *   [ovs 2.3 流表匹配过程](http://vinllen.com/ovs-2-3-datapatchnei-he-liu-biao-pi-pei-guo-cheng/)
 *   [mininet与namespace](http://vinllen.com/mininetyu-namespace/)
