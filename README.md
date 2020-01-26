@@ -6,6 +6,21 @@
 ## 2020-1
 *   []()
 *   []()
+*   [**Linus 在 Google 分享了 Git 的设计思路，顺带怼了一大波人（视频）**](https://mp.weixin.qq.com/s/xHwolprdgjQnO5QEPuqrvA)
+*   [自学是门手艺--李笑来](https://github.com/selfteaching/the-craft-of-selfteaching)
+*   [韭菜简史：快招加盟的致富骗局](https://mp.weixin.qq.com/s?__biz=MzI2MzE2NDczMw==&mid=2649738554&idx=1&sn=cc95b6dd48e53de8edaddcb52a656ee7&utm_source=tuicool&utm_medium=referral)
+*   [5 分钟商学院精细笔记 · 5min-business-notes](https://wizardforcel.gitbooks.io/5min-business-notes/content/)
+*   [2019 节点: Love Wife & Change Life](https://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652977241&idx=1&sn=1272c3b0b3e61ca28f4e1bf129dff548&chksm=bd4aeb7a8a3d626cebf10df276f1c0bb4964bc86bc0a664febe2460455ef0fad3a9fa638af17&mpshare=1&scene=23&srcid=0124dQMXBzCqcfcJvqVnfM6V&sharer_sharetime=1579877575190&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)     
+*   [用户正在开悟](https://mp.weixin.qq.com/s?__biz=MzI4MTkxMDIzOA==&mid=2247484981&idx=1&sn=5eb1b7942d9e0d4d6c4073c86483d74f&chksm=eba34884dcd4c192ea5bec21b255fccb2fcdcd3ecd7cf1e77877a647e117eab511fb90386399&mpshare=1&scene=23&srcid=0124wBdRD8SEWJiLrFujJXk1&sharer_sharetime=1579871085971&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)         
+但《欢乐斗地主》针对重度疲劳用户的功能上线后，营收却没有影响，答案也很简单：因为更愿意花时间的玩家，其实并非是花钱的主要人群。      
+过去我们围绕人性的弱点做生意，而未来反过来引导用户向善，其实就是在解决这些副作用。你解决了用户遇到的问题，反过来用户认为你有价值，从而获取了竞争的优势。        
+*   [2020年，请原谅自己的有趣](https://mp.weixin.qq.com/s/HPf9oILMjqquM804qDpWcw)          
+这不是我说的，李诞自己就说完了：“我发现你们到最后有一个环节叫上价值，就是有一个像黄执中这样的人会告诉你们，这道题，我们辩的是大火时救画还是救猫吗？不是，我们辩的，是你能不能识别远方的哭声。”            
+我们不是因为开发智力、延缓痴呆而玩游戏，也不是为了搞文化输出而做网红博主，这些事后追加的“价值”，之所以诞生的原因，其实是我们用来驳斥别人的工具。           
+这和经济指标没有太大的关系，发达如日韩新加坡香港地区的年轻人也没能逃离这样的压力，你过得好不好，有车子、房子、票子还不够，还取决于隔壁老王的车库里停的什么车、住的什么房，挣了多少票子。你过得像鸡还是像凤凰，不重要，更重要的是宁当鸡头，也不要当凤尾。      
+无论游戏也好、李子柒也好，我不建议我们为了驳斥别人而采用上价值的方式，把所有的事情都放置于是不是“有价值”的氛围里来度量。因为当我们在为了驳斥对方而上价值的时候，就已经向价值低头了。          
+游戏能不能延缓痴呆、是不是改善了社交能力，或许吧，但这些价值这都是不是我们玩游戏的原因。玩游戏最重要的是开心，这种开心也许没有用，但我们不需要靠上价值来暗示自己它“有用”，才允许自己去做这件事。          
+长期对“有用”的练习，让人无法领悟高级的快乐，只能领略到平庸的、动物性的快乐。这种精神的贫乏，让人更依赖物质带来的短暂快感，而这些物质又要求你必须以“有用”来度量这个世界，以索求更多。        
 *   [曾经优秀的人，怎么就突然不优秀了。](https://mp.weixin.qq.com/s/r5B0TB94kKy83D3M8ogKDA)          
 我不站立场，我只站事实，事实只有一句话，优秀的门槛越来越高。          
 为什么优秀的人突然不优秀了，因为优秀的门槛一直在变高，因为每年都在重新定义优秀的标准，这次还真是重新定义。     
