@@ -6,6 +6,12 @@
 ## 2020-1
 *   []()
 *   []()
+*   [多阶Hash算法 - 架构学而思架构学而思](https://www.owenzhang.net/blog/330.html)
+*   [简单高效的排行榜算法——树状数组 - 架构学而思架构学而思](https://www.owenzhang.net/blog/325.html)
+*   [**【中文字幕】Linus 在 2007 年 Google Talk 上介绍 Git_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili**](https://www.bilibili.com/video/av34867224/?p=1)
+*   [网上骗子套路深，幸好我来自农村！ 遇到的最有耐心的一个_风闻社区](https://user.guancha.cn/main/content?id=185649&s=zwyess)
+*   [Advanced-Frontend/Daily-Interview-Question: 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+*   [数码时代的信息安全手册](https://mp.weixin.qq.com/s?__biz=MzAxNTY0NjEzNg==&mid=2247485607&idx=1&sn=b643d8f5a82c2d6b923274b0d43fd8b6)
 *   [**Linus 在 Google 分享了 Git 的设计思路，顺带怼了一大波人（视频）**](https://mp.weixin.qq.com/s/xHwolprdgjQnO5QEPuqrvA)
 *   [自学是门手艺--李笑来](https://github.com/selfteaching/the-craft-of-selfteaching)
 *   [韭菜简史：快招加盟的致富骗局](https://mp.weixin.qq.com/s?__biz=MzI2MzE2NDczMw==&mid=2649738554&idx=1&sn=cc95b6dd48e53de8edaddcb52a656ee7&utm_source=tuicool&utm_medium=referral)
