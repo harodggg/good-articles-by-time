@@ -1,13 +1,37 @@
 # 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)         
 ![number](number.png)            
-共2832篇文章        
+共2931篇文章        
 
-## 2020-1
+
+## 2020-2
 *   []()
 *   []()
+
+## 2020-1   共108篇
+
+*   [Electron构建跨平台应用mac/windows/linux | Poetry's Blog](http://blog.poetries.top/2019/01/06/electron-summary/)
+*   [NodeJS 调试不权威指南](https://mp.weixin.qq.com/s/NR9fk6_6EVJ5w5ZB4ePuQw)
+*   [Nodejs微信公众号开发 - Leinov - 博客园](https://www.cnblogs.com/leinov/p/9944994.html)
+*   [嗨，你真的懂this吗？ - 前端进阶 - SegmentFault 思否](https://segmentfault.com/a/1190000018630013)
+*   [详解NodeJs流之一 - 前端神盾局 - SegmentFault 思否](https://segmentfault.com/a/1190000018343723)
+*   [第四节：前端自动化准备和详细配置(NVM、NPM/CNPM、NodeJs、NRM、WebPack、Gulp/Grunt、Git/SVN) - Yaopengfei - 博客园](https://www.cnblogs.com/yaopengfei/p/7551647.html)
+*   [用 Node.js 快速开发出多功能的多人在线的文章分享平台 | persilee's Blog](https://h.lishaoy.net/adonisjs.html)
+*   [pubdreamcc/Node.js: 一步一步学习Node.js，带你从零开始学习Node.js！本仓库是自己总结的Node.js学习图文教程，里面有学习案列和源代码（pubdreamcc原创，欢迎转载，欢迎star）](https://github.com/pubdreamcc/Node.js)
+*   [从0开始用Nodejs做一个聊天室 - 简书](https://www.jianshu.com/p/b608a765519a)
+*   [node基础篇回顾 | Poetry's Blog](http://blog.poetries.top/2019/03/09/node-base-review/)
+*   [深入浅出nodejs学习记录-前端开发博客](http://caibaojian.com/nodejs-book-record.html)
+*   [Node.js线程完全指北](https://mp.weixin.qq.com/s/CvouPP1WgA63S38L2lhvtw)
+*   [Create a live chat widget with JavaScript](https://pusher.com/tutorials/chat-widget-javascript)
+*   [Learn to build your own desktop chat app with React and Electron, one step at a time](https://www.freecodecamp.org/news/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f/)
+*   [学习 Node.js，第 1 单元：Node.js 学习路径概述](https://www.ibm.com/developerworks/cn/opensource/os-learn-node-unit-1-overview-nodejs-learning-path/index.html?ca=drs-&utm_source=tuicool&utm_medium=referral)
+*   [第二章 你第首个Electron应用　| Electron in Action(中译) - 三升水 - 博客园](https://www.cnblogs.com/sanshengshui/p/11066103.html)
+*   [学习 Node.js，第 3 单元：Node.js 之旅](https://www.ibm.com/developerworks/cn/opensource/os-learn-nodejs-tour-node/index.html)
+*   [学习 Node.js，第 6 单元：您的第一个 Node.js 应用程序](https://www.ibm.com/developerworks/cn/opensource/os-tutorials-learn-nodejs-your-first-node-application/index.html?ca=drs-&utm_source=tuicool&utm_medium=referral)
+*   [学习 Node.js，第 10 单元：使用 Winston 和 Log4js 记录 Node 应用程序](https://www.ibm.com/developerworks/cn/opensource/os-tutorials-learn-nodejs-winston/index.html?ca=drs-&utm_source=tuicool&utm_medium=referral)
 *   [多阶Hash算法 - 架构学而思架构学而思](https://www.owenzhang.net/blog/330.html)
 *   [简单高效的排行榜算法——树状数组 - 架构学而思架构学而思](https://www.owenzhang.net/blog/325.html)
+*   [csbun/thal: 译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫](https://github.com/csbun/thal)
 *   [**【中文字幕】Linus 在 2007 年 Google Talk 上介绍 Git_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili**](https://www.bilibili.com/video/av34867224/?p=1)
 *   [网上骗子套路深，幸好我来自农村！ 遇到的最有耐心的一个_风闻社区](https://user.guancha.cn/main/content?id=185649&s=zwyess)
 *   [Advanced-Frontend/Daily-Interview-Question: 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。](https://github.com/Advanced-Frontend/Daily-Interview-Question)
