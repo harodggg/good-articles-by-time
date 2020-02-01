@@ -7,6 +7,8 @@
 ## 2020-2
 *   []()
 *   []()
+*   [如何选定搭建个人独立博客工具 | 晚晴幽草轩](https://www.jeffjade.com/2019/07/29/156-vuepress-hexo-jekyll-ghost-gitbook-hugo-solo_compare-personal-website-generator/)
+*   [你打算在2019-12月31号发什么朋友圈过年-跨年文案？ - 知乎](https://www.zhihu.com/question/360940960)
 
 ## 2020-1   共108篇
 
