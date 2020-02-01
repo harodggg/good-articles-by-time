@@ -7,6 +7,10 @@
 ## 2020-2
 *   []()
 *   []()
+*   [A DigitalOcean Workshop: Get Started with Containers and Kubernetes - YouTube](https://www.youtube.com/watch?v=7WOgYfZgSf0&feature=youtu.be)   
+*   [Getting Started with Containers and Kubernetes: A DigitalOcean Workshop Kit  DigitalOcean](https://www.digitalocean.com/community/meetup_kits/getting-started-with-containers-and-kubernetes-a-digitalocean-workshop-kit)
+*   [两小时Kubernetes(K8S)从懵圈到熟练——大型分布式集群环境捷径部署搭建_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av57580105)                 
+*   [1 天入门 Kubernetes/K8S_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av49783277)         
 *   [如何选定搭建个人独立博客工具 | 晚晴幽草轩](https://www.jeffjade.com/2019/07/29/156-vuepress-hexo-jekyll-ghost-gitbook-hugo-solo_compare-personal-website-generator/)
 *   [你打算在2019-12月31号发什么朋友圈过年-跨年文案？ - 知乎](https://www.zhihu.com/question/360940960)
 
