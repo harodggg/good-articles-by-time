@@ -7,6 +7,9 @@
 ## 2020-2
 *   []()
 *   []()
+*   [**创业者必看：复盘，一个纸巾机创业项目是怎么失败的**](https://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649868052&idx=1&sn=93214e1cfe11cee75c1428af2bc9003f&chksm=f1075d79c670d46fec541d297c9e9d0cc1d1ab3477b45446a9618497a0c963ee8e2abe1e573a&mpshare=1&scene=23&srcid=1027up8X91Ssazve2dXtdx2I&sharer_sharetime=1572143019472&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [在哪可以买到便宜的英文原版书？ - 知乎](https://www.zhihu.com/question/22612369)
+*   [**Highest Voted Questions - Stack Overflow**](https://stackoverflow.com/questions?tab=Votes)
 *   [A DigitalOcean Workshop: Get Started with Containers and Kubernetes - YouTube](https://www.youtube.com/watch?v=7WOgYfZgSf0&feature=youtu.be)   
 *   [Getting Started with Containers and Kubernetes: A DigitalOcean Workshop Kit  DigitalOcean](https://www.digitalocean.com/community/meetup_kits/getting-started-with-containers-and-kubernetes-a-digitalocean-workshop-kit)
 *   [两小时Kubernetes(K8S)从懵圈到熟练——大型分布式集群环境捷径部署搭建_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av57580105)                 
