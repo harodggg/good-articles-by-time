@@ -7,6 +7,17 @@
 ## 2020-2
 *   []()
 *   []()
+*   [**Kubernetes for Full-Stack Developers, a self-guided course. | DigitalOcean**](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
+*   [bullshit-codes: 本仓库收集史上最坑爹的代码片段，欢迎大家通过 Fork+Pull Request 参与 - 码云 Gitee.com](https://gitee.com/oschina/bullshit-codes/tree/master)
+*   [**Getting Started with Containers and Kubernetes: A DigitalOcean Workshop Kit | DigitalOcean**](https://www.digitalocean.com/community/meetup_kits/getting-started-with-containers-and-kubernetes-a-digitalocean-workshop-kit)
+*   [【码上开学】学不会协程？很可能因为你看过的教程都是错的——Kotlin 的协程「用力瞥一眼」_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av67107689/?p=1)
+*   [【码上开学】Kotlin 协程的挂起好神奇好难懂？今天我把它的皮给扒了_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av68241619)
+*   [瑞幸是如何暴打资本主义的](https://mp.weixin.qq.com/s/_6yvNti7mb7h0Kicyxuoug)
+*   [你为什么最终没有留在杭州？ - 知乎](https://www.zhihu.com/question/269585777/answer/722693813)          
+今年杭州郊区诸如良渚、湘湖也有很多小学爆表了，不信的可以上网搜索“杭州小学爆表”，也可以查杭州教育局官方的爆表预警信息      
+在杭州，爆表的不只是名校，普通小学甚至村小都可以爆表的哦，为什么呢？这几年人口大量流入，适龄儿童太多了啊，教育基建没跟上，小学不够大，班级装不下，杭州的教育基建根本容纳不了那么多小孩，爆表意味着你买了对口学区房，也要面临调剂，有小孩和近期打算要小孩的好好考虑下吧，在杭州至少要在小孩上学前提前三年买房才能保证有学可上           
+*   [Flash 兴衰史 | 爱范儿](https://www.ifanr.com/1271718)
+*   [**我的十年创业路**](https://mp.weixin.qq.com/s?__biz=MzI4NDY5Mjc1Mg==&mid=2247487116&idx=1&sn=6eece1cddf5777aea41589cdba8f9303&chksm=ebf6d6f3dc815fe5ce87844940b33bc09cf84853e279a7f62a0d4f07933bc76212b501dd7f61&mpshare=1&scene=23&srcid=#rd)
 *   [**创业者必看：复盘，一个纸巾机创业项目是怎么失败的**](https://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649868052&idx=1&sn=93214e1cfe11cee75c1428af2bc9003f&chksm=f1075d79c670d46fec541d297c9e9d0cc1d1ab3477b45446a9618497a0c963ee8e2abe1e573a&mpshare=1&scene=23&srcid=1027up8X91Ssazve2dXtdx2I&sharer_sharetime=1572143019472&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [在哪可以买到便宜的英文原版书？ - 知乎](https://www.zhihu.com/question/22612369)
 *   [**Highest Voted Questions - Stack Overflow**](https://stackoverflow.com/questions?tab=Votes)
