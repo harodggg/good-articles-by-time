@@ -8,6 +8,8 @@
 *   []()
 *   []()
 *   [GitHub Developer | GitHub Developer Guide](https://developer.github.com/)
+*   [Jekyll + Travis CI 自动化部署博客 - 漠然的博客 | mritd Blog](https://mritd.me/2017/02/25/jekyll-blog-+-travis-ci-auto-deploy/)
+*   [Python垃圾回收（GC）三层心法,你了解到第几层？ - 掘金](https://juejin.im/post/5b34b117f265da59a50b2fbe) 
 *   [Sort an array in Java - Stack Overflow](https://stackoverflow.com/questions/8938235/sort-an-array-in-java)
 *   [java - How to sort an ArrayList? - Stack Overflow](https://stackoverflow.com/questions/16252269/how-to-sort-an-arraylist)
 *   [谁拔了我的网线？ | 鸟窝](https://colobu.com/2019/12/28/go-tcp-exceptions/)
