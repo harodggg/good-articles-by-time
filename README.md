@@ -7,6 +7,7 @@
 ## 2020-2
 *   []()
 *   []()
+*   [一日一技：如何使用弱引用优化 Python 程序的内存占用？](https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648978220&idx=1&sn=32e70e5a6550900174d46e5d74005fa2&chksm=f2506eccc527e7da810c41669a222afeb18f8045dd8e1c0afba313139df865211f6ebcfbc43d&mpshare=1&scene=23&srcid=0213cXvVIf6H2YQ6xMj72V3O&sharer_sharetime=1581568070562&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [GitHub Developer | GitHub Developer Guide](https://developer.github.com/)
 *   [Jekyll + Travis CI 自动化部署博客 - 漠然的博客 | mritd Blog](https://mritd.me/2017/02/25/jekyll-blog-+-travis-ci-auto-deploy/)
 *   [Python垃圾回收（GC）三层心法,你了解到第几层？ - 掘金](https://juejin.im/post/5b34b117f265da59a50b2fbe) 
