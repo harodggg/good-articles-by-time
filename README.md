@@ -7,6 +7,13 @@
 ## 2020-2
 *   []()
 *   []()
+*   [什么是互联网广告 · 构建我的被动收入](https://www.bmpi.dev/money/what-is-internet-advertising/)
+*   [netdata/packaging/installer at master · netdata/netdata](https://github.com/netdata/netdata)
+*   [打造属于自己的渗透神器](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247486595&idx=1&sn=913711d21b268bd76b38bb0e13c75b4e&chksm=ec1e3cabdb69b5bdeabb7573b2984d72c0b0b28507b53e283d89d753ad741400aca9aa1f929a&mpshare=1&scene=23&srcid=0212Pdkt50y0U60s9FewjPhE#rd)
+*   [为何蔡徐坤每条微博转发量 100 万+？用大数据扒一扒他的真假流量粉 - V2EX](https://www.v2ex.com/t/548359?p=1)
+*   [Word 有哪些神奇的功能？ - 知乎](https://www.zhihu.com/question/27035859)
+*   [四元数和三维转动，可互动的探索式视频（请看链接）_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av35804287/?p=1)
+*   [四元数的可视化_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av33385105)
 *   [一日一技：如何使用弱引用优化 Python 程序的内存占用？](https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648978220&idx=1&sn=32e70e5a6550900174d46e5d74005fa2&chksm=f2506eccc527e7da810c41669a222afeb18f8045dd8e1c0afba313139df865211f6ebcfbc43d&mpshare=1&scene=23&srcid=0213cXvVIf6H2YQ6xMj72V3O&sharer_sharetime=1581568070562&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [可能是目前颜值最高的开源BI工具-Superset | Jack Gao's Blog](http://jackpgao.github.io/2018/05/30/Superset-Introduce/)
 *   [CTF比赛总是输？你还差点Tricks!.pdf](http://down.40huo.cn/papers/CTF%E6%AF%94%E8%B5%9B%E6%80%BB%E6%98%AF%E8%BE%93%EF%BC%9F%E4%BD%A0%E8%BF%98%E5%B7%AE%E7%82%B9Tricks%21.pdf?tdsourcetag=s_pctim_aiomsg)
