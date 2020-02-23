@@ -11,6 +11,8 @@
 *   [Kotlin 协程真的比 Java 线程更高效吗？](https://mp.weixin.qq.com/s/-OcCDI4L5GR8vVXSYhXJ7w)
 *   [据说读完这篇文章至少加薪30%......](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMTI2Ng==&mid=2247484309&idx=1&sn=059b5083a44fa864a808328b087e27c8&utm_source=tuicool&utm_medium=referral)
 *   [专属开源开发者的羊毛福利，作者实际到手现金 5K+（namebase airdrop）](https://mp.weixin.qq.com/s/sJiLRqtcet5Vt0jZBuRq4g?tdsourcetag=s_pctim_aiomsg)
+*   [来了来了！Chrome 高级玩法，秒变摸鱼神器（提前尝鲜还未发布的功能）](https://mp.weixin.qq.com/s?__biz=MzIwNTc4NTEwOQ==&mid=2247487818&idx=1&sn=5b8e03ba39366ce4f816ffd7f7daf01a&chksm=972ac030a05d4926c6bf761135fa78ff0e424d431ad9572d05352a3a0d011286feb6a3f95045&mpshare=1&scene=23&srcid=0223jMnA1lTCelZaex7ocNob&sharer_sharetime=1582422401974&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
+*   [知识付费暴打投资机构](https://mp.weixin.qq.com/s?__biz=MzI5MTE2NDI2OQ==&mid=2247488671&idx=1&sn=cd43c02416bbc318ae0ba3e457535040&chksm=ec158d9ddb62048b786bdf1274f695642c6503ae254d2c0e0f9b3e1481ab45a7c85255bb9721&mpshare=1&scene=23&srcid=02239x8uz4NU6gMLdDqIlBIt&sharer_sharetime=1582423169817&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [什么是互联网广告 · 构建我的被动收入](https://www.bmpi.dev/money/what-is-internet-advertising/)
 *   [netdata/packaging/installer at master · netdata/netdata](https://github.com/netdata/netdata)
 *   [打造属于自己的渗透神器](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247486595&idx=1&sn=913711d21b268bd76b38bb0e13c75b4e&chksm=ec1e3cabdb69b5bdeabb7573b2984d72c0b0b28507b53e283d89d753ad741400aca9aa1f929a&mpshare=1&scene=23&srcid=0212Pdkt50y0U60s9FewjPhE#rd)
