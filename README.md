@@ -7,6 +7,14 @@
 ## 2020-2
 *   []()
 *   []()
+*   [C语言和Python画心](https://github.com/susam/heart?utm_source=tuicool&utm_medium=referral)
+*   [**温铁军：新中国十次危机概述_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili**](https://www.bilibili.com/video/av21376353/?p=1)
+*   [vmess v2ray 检测试玩 – TaterLi 个人博客](https://www.taterli.com/6705/)          
+v2ray 可以被很简单的方法检测到            
+*   [惹了阿里：拔出萝卜带出泥、7 人被判刑](https://mp.weixin.qq.com/s/1UW-RVHD6oqyw6TXehT67Q)   
+被告单位瑞智公司在经营过程中，联合关联公司北京中科云某信息技术有限公司（以下简称“云某公司”）、北京点智互动信息技术有限公司（以下简称“点智公司”），通过与运营商签订服务、合作协议的方式获取运营商服务器的登录许可，后恶意部署计算机应用程序采集并保存运营商服务器中的用户登录×××数据等信息，后又利用公司研发的爬虫程序调用数据库中保存的×××数据等信息，并服务于公司研发的QQ、淘宝、微博、抖音等加粉程序，据此开展公司的精准广告营销业务。        
+经浙江淘宝网络有限公司排查，被告单位瑞智公司通过被告人黄某租用的IP地址，仅在2018年4月16-18日期间，即爬取了淘宝用户（部分系绍兴市越城区居民）的订单信息共计22万余条次，为淘宝用户恶意添加好友13万余个次。被告单位瑞智公司及其关联公司通过上述业务非法获利数额特别巨大。             
+其被抓获以后，有配合公安机关对相关数据进行提取，包括一小时内提取的抖音×××数据量1.4万余条，百度百家二三天的×××数据量600多条，一小时内提取的微博×××数据量2000多条，百度搜词几个小时的×××数据量4000多条等。          
 *   [w-digital-scanner/w12scan: 🚀 A simple asset discovery engine for cybersecurity. (网络资产发现引擎)](https://github.com/w-digital-scanner/w12scan)
 *   [长租公寓模式面临生死挑战](https://mp.weixin.qq.com/s?__biz=MzAwNTI1NjExNA==&mid=2247484745&idx=1&sn=5a1516d26feb6fe4af66b08048c42533&chksm=9b1e2394ac69aa8211ac97a063a222f84bee6a5ede5f676a39be519a793fa899215947f98362&mpshare=1&scene=23&srcid=0223ml3sutnzM9gMJ9GbL9A3&sharer_sharetime=1582433522873&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [**wudi/PHP-Interview-Best-Practices-in-China: 📙 PHP 面试知识点汇总**](https://github.com/wudi/PHP-Interview-Best-Practices-in-China)
