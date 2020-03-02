@@ -7,6 +7,8 @@
 ## 2020-3 
 *   []()
 *   []()
+*   [timqian/chinese-independent-blogs: 中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+*   [树莓派新手入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/06/raspberry-pi-tutorial.html)
 
 ## 2020-2 共60篇
 *   [C语言和Python画心](https://github.com/susam/heart?utm_source=tuicool&utm_medium=referral)
