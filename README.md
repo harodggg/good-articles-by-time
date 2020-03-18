@@ -7,6 +7,9 @@
 ## 2020-3 
 *   []()
 *   []()
+*   [面对疫情，印度为啥能躺赢？](https://mp.weixin.qq.com/s/oYujgq_tKXXACNSUgTY0Bg)
+*   [特朗普是怎么把美股推上绝路的](https://mp.weixin.qq.com/s/uYxhhDTchQzq2e3qsnrDkw)
+*   [韩国邪教成为疫情重灾区，为什么韩国遍地是邪教？](https://mp.weixin.qq.com/s/tzADe-mmFqGvZzYXH1WRbA)
 *   [为什么说日本政府是世袭政客组成的特权俱乐部](https://mp.weixin.qq.com/s/R4YVN5HFeQ4GhAQAy0m-TQ)
 *   [近二十年房贷利率一览表](https://mp.weixin.qq.com/s/nXNI5TuZOPose2Kc3HZT9w)          
 ![](image/lpr.jfif)      
