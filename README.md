@@ -7,6 +7,9 @@
 ## 2020-3 
 *   []()
 *   []()
+*   [为什么说日本政府是世袭政客组成的特权俱乐部](https://mp.weixin.qq.com/s/R4YVN5HFeQ4GhAQAy0m-TQ)
+*   [近二十年房贷利率一览表](https://mp.weixin.qq.com/s/nXNI5TuZOPose2Kc3HZT9w)          
+![](image/lpr.jfif)      
 *   [timqian/chinese-independent-blogs: 中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 *   [树莓派新手入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/06/raspberry-pi-tutorial.html)
 
