@@ -1,12 +1,14 @@
 # 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)         
 ![number](number.png)            
-共2991篇文章        
+共3037篇文章        
 
 
-## 2020-3 
+## 2020-4 
 *   []()
 *   []()
+
+## 2020-3  共46篇
 *   [**大白话说期权——除了买涨买跌，我们还能怎么交易？二元期权又是什么鬼？ - 知乎**](https://zhuanlan.zhihu.com/p/19962890)
 *   [找一种独特技术指标的组合形成自己的交易系统，那也是我曾经的梦想 - 知乎](https://zhuanlan.zhihu.com/p/19971182)
 *   [图穷匕见 - 知乎](https://zhuanlan.zhihu.com/p/20058411)         
