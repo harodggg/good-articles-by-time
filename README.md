@@ -7,6 +7,8 @@
 ## 2020-4 
 *   []()
 *   []()
+*   [发行一个自己的代币并实现基本功能 - 知乎](https://zhuanlan.zhihu.com/p/34017392)
+*   [专属开源开发者的羊毛福利，作者实际到手现金 5K+（namebase airdrop）](https://mp.weixin.qq.com/s/sJiLRqtcet5Vt0jZBuRq4g?tdsourcetag=s_pctim_aiomsg)
 
 ## 2020-3  共46篇
 *   [**大白话说期权——除了买涨买跌，我们还能怎么交易？二元期权又是什么鬼？ - 知乎**](https://zhuanlan.zhihu.com/p/19962890)
