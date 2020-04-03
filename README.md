@@ -7,6 +7,8 @@
 ## 2020-4 
 *   []()
 *   []()
+*   [北京房价更新20200328——市场回暖，跌了，西城海淀朝阳都跌了](https://mp.weixin.qq.com/s/VPA4NR9yxAphawN0yFJvMg)       
+![](image/beijing.webp)      
 *   [天上不会掉馅饼 - 知乎](https://zhuanlan.zhihu.com/wontfallinyourlap)
 *   [硕士如何才能“水”毕业？_猿生活_牛客网](https://www.nowcoder.com/discuss/363054)
 *   [一文概览用于图像分割的CNN - 知乎](https://zhuanlan.zhihu.com/p/48106193)
