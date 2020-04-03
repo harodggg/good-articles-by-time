@@ -7,6 +7,12 @@
 ## 2020-4 
 *   []()
 *   []()
+*   [一文概览用于图像分割的CNN - 知乎](https://zhuanlan.zhihu.com/p/48106193)
+*   [一文看懂深度学习改变的五大计算机视觉技术](https://mp.weixin.qq.com/s/FdM_w2SG7SmjJmNg8y1c4Q)
+*   [动态可视化：一步步拆解LSTM和GRU - 知乎](https://zhuanlan.zhihu.com/p/47907312)
+*   [yaoguangju/machine_learning](https://github.com/yaoguangju/machine_learning)
+*   [深度学习入门笔记](https://mp.weixin.qq.com/s/zm1jjRT2Fh8VN6zZWfUX2g?)
+*   [Windows 10 Anaconda Python 3.7 安装 MXNet GPU版 - zhangpeterx的博客 - CSDN博客](https://blog.csdn.net/zhangpeterx/article/details/90736462)
 *   [发行一个自己的代币并实现基本功能 - 知乎](https://zhuanlan.zhihu.com/p/34017392)
 *   [Paper-安全技术精粹](https://paper.seebug.org/)
 *   [看雪安全论坛](https://bbs.pediy.com/)
