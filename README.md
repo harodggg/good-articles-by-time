@@ -7,8 +7,18 @@
 ## 2020-4 
 *   []()
 *   []()
+*   [Python 什么情况下会生成 pyc 文件？](https://mp.weixin.qq.com/s/ApaOnC2Kvwn2ffUNrzV-wg)
+*   [看得懂的区块链，看不清的ICO人心](https://mp.weixin.qq.com/s/NQq7XyJqRUKM27i2vJ519A)
+*   [**你适合搞副业么？**](https://mp.weixin.qq.com/s/w8qCG-amQe6dm5yoY9jxbA)
+*   [美股已经塌了，下一个就是欧洲](https://mp.weixin.qq.com/s/AfFHHhbnBFhYZM9N1fW2FQ)
+*   [说出来你可能不信，跨年还跨出了bug。。。](https://mp.weixin.qq.com/s/y1nyRYWNRpEc7dKRkvWHcw)
 *   [学到了！UC Berkeley CS 294深度强化学习课程（附视频与PPT） | 机器之心](https://www.jiqizhixin.com/articles/uc-berkeley-cs294)
 *   [简单车道线识别 - 知乎](https://zhuanlan.zhihu.com/p/53172090)
+*   [梦回2015年：这么荒诞可笑的事情，居然真的发生过](https://mp.weixin.qq.com/s/1PlUlMtoPfCmF5yzoy14tA)       
+巅峰时期的冯鑫老板讲过一句特别牛逼的话，我至今还没忘记——我花了四年多时间努力忘记它，但是这句话太牛逼太牛逼了，我始终无法从脑海中消除它的痕迹。这句话就是：    
+“如果美股上市的一二三流互联网公司还不退市回国，就会被A股上市的七八九流互联网公司收购！”           
+因为我的表情很冷漠、明显不太相信，朋友决定耐心地说服我：“首先，乐视通过智能电视占领了客厅，而腾讯、阿里只占领了用户的PC和手机。其次，贾跃亭这个人非常恢弘大气、见多识广，绝非马化腾、马云之流可比。再次，腾讯、阿里内部有太多既得利益集团，干扰了公司的持续革新，而乐视是一个生机勃勃的全新实体！”         
+*   [咳血的独角兽6：铁打的投资人，流水的韭菜](https://mp.weixin.qq.com/s/rKoMMT1c55y-CvBw070z5g)
 *   [聊聊机器学习中的那些树](https://mp.weixin.qq.com/s/1f3xbnWy1iElbXO9fXDbLA?)
 *   [经典回顾！Github 上打星超过 1 万的可复现顶会论文项目 | 雷锋网](https://www.leiphone.com/news/201902/iqPh2qOOaWHAqOOY.html)
 *   [特征工程(完)](https://mp.weixin.qq.com/s/0QkAOXg9nw8UwpnKuYdC-g)
