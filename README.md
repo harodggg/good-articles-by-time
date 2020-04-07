@@ -8,6 +8,7 @@
 *   []()
 *   []()
 *   [Python 什么情况下会生成 pyc 文件？](https://mp.weixin.qq.com/s/ApaOnC2Kvwn2ffUNrzV-wg)
+*   [互联网30年，泡沫如梦](https://mp.weixin.qq.com/s/KJVxNkcZdpbUBOYIejDk6Q)
 *   [看得懂的区块链，看不清的ICO人心](https://mp.weixin.qq.com/s/NQq7XyJqRUKM27i2vJ519A)
 *   [**你适合搞副业么？**](https://mp.weixin.qq.com/s/w8qCG-amQe6dm5yoY9jxbA)
 *   [美股已经塌了，下一个就是欧洲](https://mp.weixin.qq.com/s/AfFHHhbnBFhYZM9N1fW2FQ)
