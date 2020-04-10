@@ -7,6 +7,11 @@
 ## 2020-4 
 *   []()
 *   []()
+*   [Kotlin 的 Lambda，大部分人学得连皮毛都不算_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1kp4y1C7DE?p=1)
+*   [【码上开学】Kotlin 的变量、函数和类型_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1x4411o7Wy)
+*   [【码上开学】Kotlin 里那些「不是那么写的」 final const static val _哔哩哔哩 (゜-゜)つロ 干杯~-bilibili]()
+*   [【码上开学】Kotlin 里那些「更方便的」 主构造器 primary constructor _哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1K4411r75k)
+*   [【码上开学】Kotlin 的泛型_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1T441117u8)
 *   [Python 什么情况下会生成 pyc 文件？](https://mp.weixin.qq.com/s/ApaOnC2Kvwn2ffUNrzV-wg)
 *   [互联网30年，泡沫如梦](https://mp.weixin.qq.com/s/KJVxNkcZdpbUBOYIejDk6Q)
 *   [看得懂的区块链，看不清的ICO人心](https://mp.weixin.qq.com/s/NQq7XyJqRUKM27i2vJ519A)
