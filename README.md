@@ -7,6 +7,7 @@
 ## 2020-4 
 *   []()
 *   []()
+*   [距离BTC减半仅32天 减产到底影响几何？ 金色财经](https://www.jinse.com/blockchain/625747.html)
 *   [QQ群邮件木马变种分析_逆向/破解/病毒分析_i春秋社区-分享你的技术，为安全加点温度.](https://bbs.ichunqiu.com/thread-49663-1-1.html)
 *   [SQL注入常规Fuzz全记录 - FreeBuf互联网安全新媒体平台](https://www.freebuf.com/articles/web/190019.html)
 *   [fs0c131y/ESFileExplorerOpenPortVuln: ES File Explorer Open Port Vulnerability - CVE-2019-6447](https://github.com/fs0c131y/ESFileExplorerOpenPortVuln)
