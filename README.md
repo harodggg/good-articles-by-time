@@ -8,6 +8,9 @@
 *   []()
 *   []()
 *   [mqyqingfeng/Blog: 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。](https://github.com/mqyqingfeng/Blog)
+*   [原油期货价格跌到1美元](https://mp.weixin.qq.com/s/Ou2qNzIKqeqT_HBArToAJA)     
+*   [WTI 5月原油期货报价史上首次跌至负值-PingWest 品玩](https://www.pingwest.com/w/208821)          
+4月21日讯，WTI 5月原油期货报价跌至负值，截至目前跌至负35美元/桶，为历史首次。       
 *   [距离BTC减半仅32天 减产到底影响几何？ 金色财经](https://www.jinse.com/blockchain/625747.html)
 *   [蔡徐坤背后的轮回](https://mp.weixin.qq.com/s/tQKuHnbe-MvVtLhibxe-vg)
 *   [QQ群邮件木马变种分析_逆向/破解/病毒分析_i春秋社区-分享你的技术，为安全加点温度.](https://bbs.ichunqiu.com/thread-49663-1-1.html)
