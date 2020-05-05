@@ -8,6 +8,7 @@
 ## 2020-5
 *   []()
 *   []()
+*   [在原油宝亏损1000万的详细经历](https://mp.weixin.qq.com/s/p3xYi5kmLFtUf9RwfX-C0w)     
 
 ## 2020-4 共160篇
 *   [牛市要来了吗？别做梦了，牛市还早的很，慢慢熬吧_币乎 - 好文有好报!](https://bihu.com/article/1321957709?i=198Ah4&c=1&s=1rsNAx)        
