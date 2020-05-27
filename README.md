@@ -8,6 +8,7 @@
 ## 2020-5
 *   []()
 *   []()
+*   [原有赞一技术负责人走私吸食毒品被判三年，毒品在公司查获_新浪财经_新浪网](https://finance.sina.com.cn/chanjing/gsnews/2020-05-21/doc-iircuyvi4258043.shtml)
 *   [在原油宝亏损1000万的详细经历](https://mp.weixin.qq.com/s/p3xYi5kmLFtUf9RwfX-C0w)     
 *   [USDT负溢价背后：比特币定价权正在转移_币乎 - 好文有好报!](https://bihu.com/article/1509116746?i=198Ah4&c=1&s=1E86cG)        
 币信矿业 CEO 刘飞也曾向 Odaily星球日报表示，目前市场上增发的很多 USDT 被用做跨境支付和贸易结算，“受疫情影响，国际结算很不方便，很多国外做生意的人的利润和进货都需要通过 USDT 回来。这些钱原本还能靠传统贸易路径回流。现在（传统路径）走不通了，USDT 就成为不错的方式。”            
