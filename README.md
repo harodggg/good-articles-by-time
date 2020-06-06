@@ -9,6 +9,9 @@
 *   []()
 *   [漫话分布式系统共识协议: 2PC/3PC篇 - 知乎](https://zhuanlan.zhihu.com/p/35298019)
 *   [浅谈分布式系统一致性之3PC协议](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMTI2Ng==&mid=2247484725&idx=1&sn=606c0acebb07a1af8b7d6a5b1c1c2de2&utm_source=tuicool&utm_medium=referral)
+*   [再有人问你分布式事务，把这篇扔给他 - 掘金](https://juejin.im/post/5b5a0bf9f265da0f6523913b)
+*   [聊聊分布式事务，再说说解决方案 - Savorboard - 博客园](https://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html)
+*   [有哪些分布式数据库书籍或论文比较好？ - 知乎](https://www.zhihu.com/question/37647788)
 
 ## 2020-5 共 20篇
 *   [一些值得学习的Fuzzer开源项目 | riusksk's blog](http://riusksk.me/2019/07/14/%E4%B8%80%E4%BA%9B%E5%80%BC%E5%BE%97%E5%AD%A6%E4%B9%A0%E7%9A%84Fuzzer%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/)
