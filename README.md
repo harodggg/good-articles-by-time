@@ -7,6 +7,9 @@
 ## 2020-6
 *   []()
 *   []()
+*   [**图解CAP定理**](https://mp.weixin.qq.com/s?__biz=MzI0OTYwNTQ4Ng==&mid=2247484060&idx=1&sn=615ce8a8e9d36562b1af2e93f997495d&utm_source=tuicool&utm_medium=referral)
+*   [女朋友为什么一定要要求我上进，要求我工资比她高一半以上。下班到家已经十一点了，只想葛优躺打打游戏。心](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNjU5NTdkNmFhNzA3MTFlYWI4YWI4MDE4NDRlNTAxOTAiLCJ1IjozODI5NDQyNSwiaWQiOjI2MzcwNjcwfQ.1zxSInia3u-PZEwaNIpu3LSNQg9dSmSTNDYOIO6cHqc)                
+女朋友为什么一定要要求我上进，要求我工资比她高一半以上。下班到家已经十一点了，只想葛优躺打打游戏。心累了，欲壑难填，等她自己提分手了。男人沉默了，就是该结束了。              
 *   [分布式系列文章——Paxos算法原理与推导 - lzslbd - 博客园](https://www.cnblogs.com/linbingdong/p/6253479.html)
 *   [Paxos算法详解 - 知乎](https://zhuanlan.zhihu.com/p/31780743)
 *   [漫话分布式系统共识协议: 2PC/3PC篇 - 知乎](https://zhuanlan.zhihu.com/p/35298019)
