@@ -7,6 +7,10 @@
 ## 2020-6
 *   []()
 *   []()
+*   [**GitHub Chrome 插件推荐**](https://mp.weixin.qq.com/s/NSbzGSFgzb44HS2vyiXM9A)
+*   [Clash(R) for Windows 教程 | 可能是Windows上最好用的代理工具 - Sabrina的万事屋](https://merlinblog.xyz/wiki/cfw.html)
+*   [rocksdb sst index&filter](https://bravoboy.github.io/2018/09/30/sstindex/)
+*   [FEED43&FeedEx-为任意网页定制RSS 格式全文订阅源](https://zhuanlan.zhihu.com/p/26511654)
 *   [**图解CAP定理**](https://mp.weixin.qq.com/s?__biz=MzI0OTYwNTQ4Ng==&mid=2247484060&idx=1&sn=615ce8a8e9d36562b1af2e93f997495d&utm_source=tuicool&utm_medium=referral)
 *   [女朋友为什么一定要要求我上进，要求我工资比她高一半以上。下班到家已经十一点了，只想葛优躺打打游戏。心](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNjU5NTdkNmFhNzA3MTFlYWI4YWI4MDE4NDRlNTAxOTAiLCJ1IjozODI5NDQyNSwiaWQiOjI2MzcwNjcwfQ.1zxSInia3u-PZEwaNIpu3LSNQg9dSmSTNDYOIO6cHqc)                
 女朋友为什么一定要要求我上进，要求我工资比她高一半以上。下班到家已经十一点了，只想葛优躺打打游戏。心累了，欲壑难填，等她自己提分手了。男人沉默了，就是该结束了。              
