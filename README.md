@@ -2,11 +2,14 @@
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)         
 ![number](number.png)            
 
-共3217篇文章        
+共3237篇文章        
 
-## 2020-6
+## 2020-7
 *   []()
 *   []()
+
+## 2020-6  共20篇
+*   [**浅谈 CAP 和 Paxos 共识算法 - 知乎**](https://zhuanlan.zhihu.com/p/106465473)
 *   [**GitHub Chrome 插件推荐**](https://mp.weixin.qq.com/s/NSbzGSFgzb44HS2vyiXM9A)
 *   [Clash(R) for Windows 教程 | 可能是Windows上最好用的代理工具 - Sabrina的万事屋](https://merlinblog.xyz/wiki/cfw.html)
 *   [rocksdb sst index&filter](https://bravoboy.github.io/2018/09/30/sstindex/)
