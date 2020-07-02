@@ -7,6 +7,7 @@
 ## 2020-7
 *   []()
 *   []()
+*   [记一次事务并发引起的线上数据BUG](https://mp.weixin.qq.com/s?__biz=MzIyMTg0OTExOQ==&mid=2247485712&idx=3&sn=80cf6470327a02228ae90d5e982f39ba&chksm=e8373a60df40b3769b96c27345847d53d632966fd73396295f8bbea0c299ae0005ac1e363184&scene=27#wechat_redirect)
 
 ## 2020-6  共20篇
 *   [**浅谈 CAP 和 Paxos 共识算法 - 知乎**](https://zhuanlan.zhihu.com/p/106465473)
