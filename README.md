@@ -7,6 +7,12 @@
 ## 2020-7
 *   []()
 *   []()
+*   [信安之路入坑指南 | riusksk's blog](http://riusksk.me/2020/07/12/%E4%BF%A1%E5%AE%89%E4%B9%8B%E8%B7%AF%E5%85%A5%E5%9D%91%E6%8C%87%E5%8D%97/)
+*   [不用 JavaScript，纯静态网站如何统计 PV？](https://mp.weixin.qq.com/s/y5k5u--nvR8dpiLbgLngkg)
+*   [2020-7-22 从浙大“留校察看强奸犯”事件，看“尾巴主义”与按闹分配的危害](https://mp.weixin.qq.com/s/XqjsSb20gIR3JYOcPMfYrQ)
+*   [MyBatis系列第1篇：MyBatis未出世之前我们那些痛苦的经历](https://mp.weixin.qq.com/s/gkc-3s-doo_XhqmjJm2odw)
+*   [MyBatis系列第2篇：入门篇，带你感受一下mybatis独特的魅力！](https://mp.weixin.qq.com/s/gxAe6sUylykXrDFrTmuBZg)
+*   [Intellij IDEA 安装lombok及使用详解_zhglance的专栏-CSDN博客_idea lombok](https://blog.csdn.net/zhglance/article/details/54931430)
 *   [记一次事务并发引起的线上数据BUG](https://mp.weixin.qq.com/s?__biz=MzIyMTg0OTExOQ==&mid=2247485712&idx=3&sn=80cf6470327a02228ae90d5e982f39ba&chksm=e8373a60df40b3769b96c27345847d53d632966fd73396295f8bbea0c299ae0005ac1e363184&scene=27#wechat_redirect)
 *   [一文带你彻底学会 Git Hooks 配置](https://mp.weixin.qq.com/s?__biz=MzI5MjgxMDU0MA==&mid=2247483793&idx=1&sn=e49d385cc87cdaa3b3253fab9ae22f8a&chksm=ec7afbd2db0d72c49a4451f7ea3eb9ba958d960a6880bc9c55efb11a4cd85d9186bccfa7e8e4&token=1214989132&lang=zh_CN&utm_source=tuicool&utm_medium=referral)
 
