@@ -4,10 +4,14 @@
 
 共3367篇文章        
 
+# 2020-10 
 
-# 2020-9
 *   []()
 *   []()
+# 2020-9 共36篇
+*   [**我看很多朋友在求职，简历太烂，我自己的经验分享给大家，希望能帮到脉友。 刚毕业两三年的朋友这么写简历**](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiZjJhNTQ2OGFmNmU1MTFlYTlkNmM4MDE4NDRlNTAxOTAiLCJ1IjoyMTkyMDQwNDEsImlkIjoyNzM1MjY0Nn0.-Mbg4g-pbYNxqkyAWnzfWuXzVQG2v1CvqaVlPgQyKC4)      
+是的 其实大家每年再少还是有几个亮点的，不及时记录下，下个月你压根记不起弄了啥，导致很多刚工作的人写起来都是 负责干啥啥 配卡券，开发系统支持业务什么的空洞小语文。 当然，大佬们有的直接面试不靠简历，但他们内心肯定也都总结好了，熟练的很吧              
+有几个误区哦，1是写简历好，不代表水平高，能靠公文来润色提分，但水平高的基本上简历不太会太差。2是我一般般吧，能写简历也不代表求职十拿九稳，该被拒绝的也很多3是资料学习进了阿里真心没什么时间，但生活里处处是学习。 你总结工作的模式，和你总结周六去哪里遛弯获得了什么是一样的，多琢磨几次就很熟悉了。 你像周六去如意尖爬山=完成杭州第一高峰攀登之旅，取得一小时上山的好成绩，换种表达形式，举个例子哈，其他事情也差不多套路下           
 *   [命令执行到提权 - 先知社区](https://xz.aliyun.com/t/4309)
 *   [5分钟理解一致性哈希算法](https://mp.weixin.qq.com/s?__biz=MzI0NTIxNzE1Ng==&mid=2651219929&idx=1&sn=12dfe67064009cd5be00b7ec40af6a25&utm_source=tuicool&utm_medium=referral)
 *   [double write buffer，你居然没听过？](https://mp.weixin.qq.com/s/bkoQ9g4cIcFFZBnpVh8ERQ)
