@@ -8,6 +8,10 @@
 
 *   []()
 *   []()
+*   [求推荐一个洗面奶，去油的，有没有效果比较好得。 - V2EX](https://www.v2ex.com/t/714389?p=1)       
+*   [底层程序员，出局](https://mp.weixin.qq.com/s/PzEZAqmg3NMhbE8f3P0H9w)
+*   [中年程序员要不要补点维生素 - V2EX](https://www.v2ex.com/t/714365)       
+*   [V 友们都是用什么洗发水？ - V2EX](https://www.v2ex.com/t/714416?p=2)                   
 *   [20201010-银联云闪付](https://mp.weixin.qq.com/s?__biz=MzI4OTQ3MTI2NA==&mid=2247484682&idx=1&sn=a46b2a019c18a955d222b7bf9c045564&chksm=ec2feb45db5862538e251c557aad854d1677917006415dbb0245232cf9d3fcfeddb7927c4cc1&mpshare=1&scene=23&srcid=1012K1E1lcehMY2AnBxquugy&sharer_sharetime=1602467734078&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [支付宝等第三方支付盈利模式与大数据变现 | 人人都是产品经理](http://www.woshipm.com/it/305470.html)             
 *   [信贷系统学习总结（3）——现金贷之产品架构和信审系统_一杯甜酒-CSDN博客](https://blog.csdn.net/u012562943/article/details/95317084)             
