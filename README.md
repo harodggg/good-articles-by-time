@@ -1,13 +1,33 @@
 # 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)         
-![number](number.png)            
+      
 
-共3367篇文章        
-
-# 2020-10 
+# 2020-11
 
 *   []()
 *   []()
+
+# 2020-10  共56篇
+*   [**如何看待上海2020应届生落户新政？ - 皮小只的回答 - 知乎**](https://www.zhihu.com/question/422513071/answer/1495506110)      
+城市中心的交通拥堵真的是人口太多带来的吗？        
+其实本质上是“职住分离”带来的。          
+因为人口住在郊区，但是工作单位仍然在市中心，造成长距离的通勤，加剧了城市的通勤压力。             
+但有些城市的管理者往往用直觉来思考问题，看到交通拥堵就认为是人太多，看不到现象背后的本质，于是动用行政力量疏散中心城区的人口，用天价的拆迁补偿，让老城区的人搬到郊区去住。               
+但这么做反而更加剧了职住分离，导致需要在郊区和市中心之间通勤往返的人更多，城市通勤和运营的压力更大了。         
+换句话说，通勤需求的供需矛盾不是人多带来的，是规划落后带来的，是资源错配带来的，是职住分离带来的。           
+*   [让你“一天走一万步”的，不是科学家，居然是……](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2651713085&idx=1&sn=dba8b576b5722b1d9f8e9e1958ee1c0c&chksm=5da1caaf6ad643b9c78a03911f475f47058dbb04700eac7bda9f3b2585ce8eff72fe10f1b79f&mpshare=1&scene=23&srcid=#rd)            
+*   [20201022-智能决策引擎](https://mp.weixin.qq.com/s/8xfmeoluKbvLd4EaJS_Jwg)             
+*   [扒一扒支付巨头“网联”的技术架构（一）我亲身经历的网联](https://mp.weixin.qq.com/s/jzaeOA0sfEx6NIeW16aZsA)       
+*   [58 到家账户账务系统架构与实践 | Ping++ 博客](https://blog.pingxx.com/2018/07/10/58acsys/)             
+。幂等性是系统的接口对外的一种承诺(而不是实现), 承诺只要调用接口成功, 外部多次调用对系统的影响是一致的。     
+*   [cocolian/cocolian-resources: cocolian-doc项目中的各种文档-Cocolian Framework | 可可链-凤凰牌老熊](https://github.com/cocolian/cocolian-resources)       
+*   [2017 年支付行业的涅槃重生 - 知乎](https://zhuanlan.zhihu.com/p/25773185)             
+*   [未来一年，中国的移动支付市场会是什么样？](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1ODcxOQ==&mid=207721455&idx=1&sn=11888230ebe72d5196a755476b6e74dc&scene=21#wechat_redirect)       
+*   [不做支付的巨头，不是好的生态系统](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1ODcxOQ==&mid=201290282&idx=1&sn=2dfc7b75d5fd8e1e6e771ef44f0c5488&scene=21#wechat_redirect)         
+*   [DDoS攻击：无限战争](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247484094&amp;idx=1&amp;sn=e476edc73341133f52242109ec6ae5fd&source=41#wechat_redirect)    
+*   [水下运动烧钱指南 - Tech Notes of Code Monkey](https://blog.finaltheory.me/life/Under-Water-Equipments.html)  
+*   [各位平时喝的口粮茶或者咖啡或者饮料是哪种？ - V2EX](https://www.v2ex.com/t/711741?p=1)                   
+*   [**身在国外的程序员们，你们眼中的国外是怎么样的？ - V2EX**](https://www.v2ex.com/t/710814)
 *   [求推荐一个洗面奶，去油的，有没有效果比较好得。 - V2EX](https://www.v2ex.com/t/714389?p=1)       
 *   [底层程序员，出局](https://mp.weixin.qq.com/s/PzEZAqmg3NMhbE8f3P0H9w)
 *   [中年程序员要不要补点维生素 - V2EX](https://www.v2ex.com/t/714365)       
