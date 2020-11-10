@@ -7,6 +7,7 @@
 *   []()
 *   []()
 *   [小谈国企裁员【他的每一句话都是真话，全部连在一起就是一个谎言】 - 集思录](https://www.jisilu.cn/question/398563)
+*   [How to print out all the elements of a List in Java? - Stack Overflow](https://stackoverflow.com/questions/10168066/how-to-print-out-all-the-elements-of-a-list-in-java)
 
 # 2020-10  共56篇
 *   [**如何看待上海2020应届生落户新政？ - 皮小只的回答 - 知乎**](https://www.zhihu.com/question/422513071/answer/1495506110)      
